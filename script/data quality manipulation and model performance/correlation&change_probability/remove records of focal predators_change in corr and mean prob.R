@@ -1,0 +1,114 @@
+#Training dataset taxonomic coverage and performance - remove records of focal predator from training data. 
+#(simulating cases where few/no records of focal predator are available and so few/no records used for these species in training data)
+#set file paths (on lines with "###")
+
+setwd("~/###")
+source("###/all_functions_ranger.R")
+
+#libraries
+library(ranger)
+library(plyr)
+
+#get data
+Int <- readRDS("###/GloBIplus_Int20EVs.RDS")
+Non <- readRDS("###/allNon_sameCont.RDS")
+SD_foc <- readRDS("###/allperms_cut2_20EVs.RDS")
+
+#add source_aerial_mam column to Int (because it's in the target and therefore potentially the noninteraction source column)
+Int$source_aerial_mam <- 0
+SD_foc$source_aerial_mam <- 0
+
+#get lists of SD predators, prey (which has both)
+prds <- unique(SD_foc$sourceTaxonName)
+prey <- unique(SD_foc$targetTaxonName)
+
+#remove cols
+kp <- names(Non)[!(grepl("eig",names(Non)))]
+Int <- Int[,names(Int)%in%c(kp,"interact","outside")]
+Non <- Non[,names(Non)%in%c(kp,"interact","outside")]
+SD_foc <- SD_foc[,names(SD_foc)%in%c(kp,"interact","outside")]
+
+#function so can get correlations split by a grouping column (predator)
+split_corr <- function(xx)
+{
+  return(data.frame(COR = cor(xx$predict_orig, xx$predict_reduced)))
+}
+
+#function so can get change in mean probability for each predator
+split_mean <- function(xx)
+{
+  return(data.frame(mean_diff=-mean(xx$predict_orig)+mean(xx$predict_reduced)))
+}
+
+#the function for removing predators
+prds_TDTC_corr <- function(x,y,ins,out,abs,dt_test,mtr,percPred,...){
+  obs <-  x
+  obs$interact <- as.factor(TRUE)
+  obs$outside = "present"
+  y <- y[y$sourceTaxonName%in%unique(obs$sourceTaxonName),]
+  unobs_in <- y[y$outside=="FALSE",]
+  unobs_in <- unobs_in[sample(nrow(unobs_in), (dim(obs)[1]/(ins+out)*ins)*abs, replace = FALSE),] #unobs for training
+  unobs_out <- y[y$outside=="TRUE",]
+  unobs_out <- unobs_out[sample(nrow(unobs_out), (dim(obs)[1]/(ins+out)*out)*abs, replace = FALSE),]
+  unobs <- rbind(unobs_in,unobs_out)
+  unobs$obs = NULL
+  unobs$interact <- as.factor(FALSE)
+  data <- rbind(obs,unobs)
+  data$outside = NULL
+  data_orig <- data
+  data_orig = data_orig[,-tax_cols(data_orig)]
+  data_w1 <- ifelse(data_orig$interact=="TRUE",1,1/(table(data_orig$interact)[2]/table(data_orig$interact)[1]))
+  #split training data so SD_preds in one group
+  SDprd <- data[data$sourceTaxonName%in%prds,]
+  Oprd <- data[!(data$sourceTaxonName%in%prds),]
+  #remove rows based on perc (remove from data and data_w)
+  sel1 <- round(percPred/100*length(SDprd$sourceTaxonName))
+  sel2 <- sample(1:length(SDprd$sourceTaxonName),sel1)
+  SDprd <- SDprd[sel2,]
+  data2 <- rbind(SDprd,Oprd)
+  data_w2 <- ifelse(data2$interact=="TRUE",1,1/(table(data2$interact)[2]/table(data2$interact)[1]))
+  dt_test = dt_test[,names(data2)]
+  dt_test$interact <- as.factor(dt_test$interact)
+  data2 = data2[,-tax_cols(data2)]
+  rf1 = ranger(formula = interact ~., 
+              data = data_orig,
+              mtry = mtr, 
+              num.threads = 20, 
+              probability = T, 
+              importance = 'impurity',
+              case.weights = data_w1)
+  rf2 = ranger(formula = interact ~., 
+               data = data2,
+               mtry = mtr, 
+               num.threads = 20, 
+               probability = T, 
+               importance = 'impurity',
+               case.weights = data_w2)
+  predic1 = predict(rf1, data=dt_test[,-(which(names(dt_test)%in%c("interact","sourceTaxonName","targetTaxonName")))])
+  predic1 = predic1$predictions[,1] 
+  predic2 = predict(rf2, data=dt_test[,-(which(names(dt_test)%in%c("interact","sourceTaxonName","targetTaxonName")))])
+  predic2 = predic2$predictions[,1] 
+  suit = data.frame(dt_test[,c("sourceTaxonName","targetTaxonName","interact")], predict_orig=predic1, predict_reduced=predic2)
+  corrs <- ddply(suit, .(sourceTaxonName), split_corr)
+  means <- ddply(suit, .(sourceTaxonName), split_mean)
+  list(mean_cor=mean(corrs$COR),mean_change_prob=mean(means$mean_diff),num_removed = sel1)
+  }
+
+#apply the function in a loop
+output <- list()
+for(i in 0:100){
+  dt <- replicate(10,prds_TDTC_corr(Int,Non,ins=1,out=1,abs=4,SD_foc,mtr=11,thresh=0.43,num.trees=800,max.depth=1000, percPred = i))
+  dt <- rbind(dt,i)
+  output[[length(output) + 1]] <- dt   
+}
+
+saveRDS(output,"###/TDTC_preds_corr.rds")
+
+#get the required data from the list together
+op <- data.frame(t(do.call("cbind", output)))
+op <- data.frame(apply(op,2,unlist))
+
+par(mfrow=c(2,2))
+plot(op$i,op$mean_cor,xlab="% of records of focal predator remaining in training dataset", ylab = "correlation (pearson)", pch = 19, cex = 0.5, col=rgb(red=0.1, green=0.2, blue=0.2, alpha=0.3))
+plot(op$i,op$mean_change_prob,xlab="% of records of focal predator remaining in training dataset", ylab = "mean_diff", pch = 19, cex = 0.5, col=rgb(red=0.1, green=0.2, blue=0.2, alpha=0.3))
+
