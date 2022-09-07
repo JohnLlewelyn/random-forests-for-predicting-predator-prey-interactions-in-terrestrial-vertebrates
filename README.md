@@ -1,4 +1,5 @@
 ## Predicting predator-prey interactions in terrestrial endotherms using random forest
+<img align="right" src="network figure.jpg" alt="contraception" width="200" style="margin-top: 20px">
 
 Accompanies paper:
 
