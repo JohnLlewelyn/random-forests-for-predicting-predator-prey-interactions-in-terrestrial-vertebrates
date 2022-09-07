@@ -26,9 +26,9 @@ contains scripts that apply the 6 optimised model (as determined in step 1) to t
 3)	DATA QUALITY MANIPULATION AND MODEL PERFORMANCE
 contains two more folders of scripts that test the effect of modifying training data quality on model performance (when training on the enhanced global data and applied to the Simpson Desert data).
 <br>
-(<em>i</em>)	RECORDREMOVAL&REPLACE_MODELPERFORMANCE
+<em>i</em>. RECORDREMOVAL&REPLACE_MODELPERFORMANCE
 contains scripts that test the effect of removing records or switching interaction records to non-interactions (false negatives) on model performance. These modification to training data quality were made to different subsets of the data including: the whole dataset, focal prey species only, focal predator species only, and non-focal species (non-Simpson Desert) only.
 <br>
-(<em>ii</em>)	CORRELATION&CHANGE_PROBABILITY
+<em>ii</em>.	CORRELATION&CHANGE_PROBABILITY
 contains scripts testing the effects of modifying the focal-predator component of training data (removing records or switching interactions to noninteractions) on (a) relative suitability of different prey for each predator and (b) the mean probability assigned to potential prey for each predator.
 
