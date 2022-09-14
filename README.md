@@ -30,3 +30,8 @@ contains scripts that test the effect of removing records or switching interacti
 <em>ii</em>.	CORRELATION&CHANGE_PROBABILITY
 contains scripts testing the effects of modifying the focal-predator component of training data (removing records or switching interactions to noninteractions) on (a) relative suitability of different prey for each predator and (b) the mean probability assigned to potential prey for each predator.
 
+### SUPPORTING INFORMATION DATA FOLDER
+The supporting information data folder contains 3 files.:
+- interactions_between_Simpson_Desert_species.xlsx contains observed predator-prey interactions between the 7 focal predators and prey species in the Simpson Desert species assemblage (birds and mammals only).
+- Simpson_Desert_predators_with_nonSD_prey.xlsx contains observed predator-prey interactions between the 7 focal predators and non-Simpson Desert species (birds and mammals only).
+- Simpson_Desert_sp_traits.xlsx contains trait data for birds and mammals from the Simpson Desert species assemblage.
