@@ -9,13 +9,13 @@ The files include a folder with data files (.rds format) and a folder with R scr
 
 ### DATA FOLDER
 The data folder contains 4 files.:
--	GloBIplus_Int20EVs.RDS contains the enhanced global interaction records,
--	allNon_sameCont_1.RDS and allNon_sameCont_2.RDS contain the enhanced global non-interaction records – these two datasets need to be combined (rbind) and renamed allNon_sameCont.RDS or Non for running scripts,
--	allperms_cut2_20EVs.RDS contains the interaction and non-interaction records for the seven focal predators from the Simpson Desert.
+-	<code>GloBIplus_Int20EVs.RDS</code> contains the enhanced global interaction records,
+-	<code>allNon_sameCont_1.RDS</code> and <code>allNon_sameCont_2.RDS</code> contain the enhanced global non-interaction records – these two datasets need to be combined (rbind) and renamed allNon_sameCont.RDS or Non for running scripts,
+-	<code>allperms_cut2_20EVs.RDS</code> contains the interaction and non-interaction records for the seven focal predators from the Simpson Desert.
 Each of these files include all ecomorphological traits and phylogenetic eigenvectors used in analyses. 
 
 ### FUNCTIONS FOLDER
-The functions folder contains a file (all_functions_ranger.R) with functions required by the script files.
+The functions folder contains a file (<code>all_functions_ranger.R</code>) with functions required by the script files.
 
 ### SCRIPT FOLDER
 The script folder contains three more folders.
@@ -32,6 +32,6 @@ contains scripts testing the effects of modifying the focal-predator component o
 
 ### SUPPORTING INFORMATION DATA FOLDER
 The supporting information data folder contains 3 files.:
-- interactions_between_Simpson_Desert_species.xlsx contains observed predator-prey interactions between the 7 focal predators and prey species in the Simpson Desert species assemblage (birds and mammals only).
-- Simpson_Desert_predators_with_nonSD_prey.xlsx contains observed predator-prey interactions between the 7 focal predators and non-Simpson Desert species (birds and mammals only).
-- Simpson_Desert_sp_traits.xlsx contains trait data for birds and mammals from the Simpson Desert species assemblage.
+- <strong>interactions_between_Simpson_Desert_species.xlsx</strong> contains observed predator-prey interactions between the 7 focal predators and prey species in the Simpson Desert species assemblage (birds and mammals only).
+- <strong>Simpson_Desert_predators_with_nonSD_prey.xlsx</strong> contains observed predator-prey interactions between the 7 focal predators and non-Simpson Desert species (birds and mammals only).
+- <strong>Simpson_Desert_sp_traits.xlsx</strong> contains trait data for birds and mammals from the Simpson Desert species assemblage.
