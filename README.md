@@ -10,8 +10,8 @@ The files include a folder with data files (.rds format) and a folder with R scr
 ### DATA FOLDER
 The data folder contains 4 files.:
 -	<code>GloBIplus_Int20EVs.RDS</code> contains the enhanced global interaction records,
--	<code>allNon_sameCont_1.RDS</code> and <code>allNon_sameCont_2.RDS</code> contain the enhanced global non-interaction records – these two datasets need to be combined (rbind) and renamed allNon_sameCont.RDS or Non for running scripts,
--	<code>allperms_cut2_20EVs.RDS</code> contains the interaction and non-interaction records for the seven focal predators from the Simpson Desert.
+-	<code>allNon_sameCont_1.RDS</code> and <code>allNon_sameCont_2.RDS</code> contain the enhanced global non-interaction records – these two datasets need to be combined (rbind) and renamed <code>allNon_sameCont.RDS</code> or Non for running scripts,
+-	<code>allperms_cut2_20EVs.RDS</code> contains the interaction and non-interaction records for the seven focal predators from the <a href="https://en.wikipedia.org/wiki/Simpson_Desert">Simpson Desert</a>.
 Each of these files include all ecomorphological traits and phylogenetic eigenvectors used in analyses. 
 
 ### FUNCTIONS FOLDER
