@@ -1,33 +1,41 @@
 #Training dataset taxonomic coverage (TDTC) and performance - change predator interactions to non-interactions 
-#(simulating cases where predator interactions understudied and no/high prevalence of false negatives)
+#(simulating cases where predator interactions understudied and high prevalence of false negatives)
 #set file paths (on lines with "###")
 
-setwd("~/###")
+setwd("###")
 source("###/all_functions_ranger.R")
+source("###/opt_functions.R")
 
 #libraries
 library(ranger)
 library(plyr)
 
 #get data
-Int <- readRDS("###/GloBIplus_Int20EVs.RDS")
-Non <- readRDS("###/allNon_sameCont.RDS")
-SD_foc <- readRDS("###/allperms_cut2_20EVs.RDS")
+Int <- readRDS("###/data/GloBIplus_Int20EVs.RDS")
+Non <- readRDS("###/data/allNon_sameCont.RDS")
+SD_foc <- readRDS("###/data/allperms_cut2_20EVs.RDS")
 
 #add source_aerial_mam column to Int (because it's in the target and therefore potentially the noninteraction source column)
 Int$source_aerial_mam <- 0
 SD_foc$source_aerial_mam <- 0
 
+#cut global dataset to species with 5 or more records
+ch<-data.frame(table(Int$sourceTaxonName))
+prds <- ch$Var1[ch$Freq>4]
+Int<-Int[Int$sourceTaxonName%in%prds,]
+Non<-Non[Non$sourceTaxonName%in%prds,]
+
 #get lists of Simpson Desert predators, prey (which has both)
 prds <- unique(SD_foc$sourceTaxonName)
 prey <- unique(SD_foc$targetTaxonName)
 
-#remove cols
-kp <- names(Non)[!(grepl("eig",names(Non)))]
+#remove columns not required
+kp <- c("targetTaxonName","sourceTaxonName","interact","outside",paste("target", "eig", 1:21, sep=""), paste("source", "eig", 1:21, sep="")) #cut to 21 because there are 21 ecomorphological variables
+nms <- names(Non)[!(grepl("eig",names(Non)))]
+kp <- unique(c(kp,nms))
 Int <- Int[,names(Int)%in%c(kp,"interact","outside")]
 Non <- Non[,names(Non)%in%c(kp,"interact","outside")]
-SD_foc <- SD_foc[,names(SD_foc)%in%c(kp,"interact","outside")]
-
+SD_foc <- SD_foc[,names(SD_foc)%in%c(kp)]  #deleted "interact","outside" because don't need this in this dataset
 
 #function so can get correlations split by a grouping column (predator)
 split_corr <- function(xx)
@@ -42,7 +50,7 @@ split_mean <- function(xx)
 }
 
 #the function for changing predators' interact to noninteract
-prdChange_TDTC_corr <- function(x,y,ins,out,abs,dt_test,mtr,percPred,...){
+prdChange_TDTC_corrMOD <- function(x,y,ins,out,abs,dt_test,mtr,ntrees,mdepth,percPred,...){
   obs <-  x
   obs$interact <- as.factor(TRUE)
   obs$outside = "present"
@@ -78,14 +86,18 @@ prdChange_TDTC_corr <- function(x,y,ins,out,abs,dt_test,mtr,percPred,...){
                num.threads = 20, 
                probability = T, 
                importance = 'impurity',
-               case.weights = data_w1)
+               case.weights = data_w1,
+               num.trees = ntrees,
+               max.depth = mdepth)
   rf2 = ranger(formula = interact ~., 
                data = data2,
                mtry = mtr, 
                num.threads = 20, 
                probability = T, 
                importance = 'impurity',
-               case.weights = data_w2)
+               case.weights = data_w2,
+               num.trees = ntrees,
+               max.depth = mdepth)
   predic1 = predict(rf1, data=dt_test[,-(which(names(dt_test)%in%c("interact","sourceTaxonName","targetTaxonName")))])
   predic1 = predic1$predictions[,1] 
   predic2 = predict(rf2, data=dt_test[,-(which(names(dt_test)%in%c("interact","sourceTaxonName","targetTaxonName")))])
@@ -97,24 +109,21 @@ prdChange_TDTC_corr <- function(x,y,ins,out,abs,dt_test,mtr,percPred,...){
 }
 
 #apply the function in a loop
+set.seed(123)
 output <- list()
 for(i in 0:100){
-  dt <- replicate(10,prdChange_TDTC_corr(Int,Non,ins=1,out=1,abs=4,SD_foc,thresh=0.43,mtr=11,num.trees=800,max.depth=1000, percPred = i))
+  dt <- replicate(10,prdChange_TDTC_corrMOD(Int,Non,ins=2.5,out=1,abs=4.75,SD_foc,thresh=0.31,mtr=42,ntrees=400,mdepth=0,percPred = i))
   dt <- rbind(dt,i)
   output[[length(output) + 1]] <- dt  
   print(i)
 }
 
-saveRDS(output,"###/TDTC_preds_resultsChangeInt2Non_corr&mean_diff.rds")
+saveRDS(output,"###/results/TDTC_preds_resultsChangeInt2Non_corr&mean_diff.rds")
 
-#get the required data from the list together
+#get the required data from the list together to plot
 op <- data.frame(t(do.call("cbind", output)))
 op <- data.frame(apply(op,2,unlist))
-
-#pdf("/###/TDTC_predChangeInt2Non_corr&mean_diff.pdf", width = 10, height = 8)
 par(mfrow=c(2,2))
 plot(op$i,op$mean_cor,xlab="% focal predator interact records remaining the same in training data", ylab = "correlation (pearson)", pch = 19, cex = 0.5, col=rgb(red=0.1, green=0.2, blue=0.2, alpha=0.3))
 plot(op$i,op$mean_change_prob,xlab="% focal predator interact records remaining the same in training data", ylab = "mean_diff", pch = 19, cex = 0.5, col=rgb(red=0.1, green=0.2, blue=0.2, alpha=0.3))
-#dev.off()
 
-dt100 <- replicate(100,prdChange_TDTC_corr(Int,Non,ins=1,out=1,abs=4,SD_foc,thresh=0.43,mtr=11,num.trees=800,max.depth=1000, percPred = 0))
