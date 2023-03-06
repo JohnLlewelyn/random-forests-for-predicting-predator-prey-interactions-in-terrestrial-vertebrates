@@ -8,27 +8,32 @@ Accompanies paper:
 The files include a folder with data files (.rds format) and a folder with R scripts. File paths will need to be adjusted once downloaded, and can be found in the scripts by searching for “###”.
 
 ### DATA FOLDER
-The data folder contains 4 files.:
--	<code>GloBIplus_Int20EVs.RDS</code> contains the enhanced global interaction records,
--	<code>allNon_sameCont_1.RDS</code> and <code>allNon_sameCont_2.RDS</code> contain the enhanced global non-interaction records – these two datasets need to be combined (rbind) and renamed <code>allNon_sameCont.RDS</code> or Non for running scripts,
--	<code>allperms_cut2_20EVs.RDS</code> contains the interaction and non-interaction records for the seven focal predators from the <a href="https://en.wikipedia.org/wiki/Simpson_Desert">Simpson Desert</a>.
-Each of these files include all ecomorphological traits and phylogenetic eigenvectors used in analyses. 
+The data folder contains 9 files.:
+-	<code>GloBIplus_Int20EVs.RDS</code> contains the global interaction records,
+-	<code>allNon_sameCont.RDS</code> contains the global non-interaction records,
+-	<code>allperms_cut2_20EVs.RDS</code> contains the interaction and non-interaction records for the seven focal predators from the <a href="https://en.wikipedia.org/wiki/Simpson_Desert">Simpson Desert</a>,
+-	and 6x 'KeepVar' files that contain the variables used in the few-variable models (i.e., the most important variables as identified by the variable importance script).
+
+Each of the interaction and non-interaction files include all ecomorphological traits and phylogenetic eigenvectors used in analyses. 
 
 ### FUNCTIONS FOLDER
-The functions folder contains a file (<code>all_functions_ranger.R</code>) with functions required by the script files.
+The functions folder contains three files with functions required by the script files:
+- (<code>all_functions_ranger.R</code>),
+- (<code>opt.functions.R</code>),
+- variable_importance_functions.
 
 ### SCRIPT FOLDER
 The script folder contains three more folders.
-1)	OPTIMIZATION OF RANDOM FOREST MODELS
-contains scripts that identify optimal parameter values for 6 different random forest models (that differ in terms of the trait data used).
-2)	APPLIED TO GLOBAL AND SIMPSON DESERT DATASETS
-contains scripts that apply the 6 optimised model (as determined in step 1) to the enhanced global interaction/non-interaction data and the Simpson Desert data (for the seven focal predators).
-3)	DATA QUALITY MANIPULATION AND MODEL PERFORMANCE
+1)	OPTIMISE ON GLOBAL_APPLY TO GLOBAL AND SIMPSON DESERT
+contains scripts that (i) identify optimal parameter values for 12 different random forest models (that differ in terms of the trait data used and the global training dataset) and (ii) applies the 12 optimised model (as determined in step i) to the global interaction/non-interaction data and the Simpson Desert data (for the seven focal predators).
+2)	DATA QUALITY MANIPULATION AND MODEL PERFORMANCE
 contains two more folders of scripts that test the effect of modifying training data quality on model performance (when training on the enhanced global data and applied to the Simpson Desert data).
 <em>i</em>. RECORDREMOVAL&REPLACE_MODELPERFORMANCE
 contains scripts that test the effect of removing records or switching interaction records to non-interactions (false negatives) on model performance. These modification to training data quality were made to different subsets of the data including: the whole dataset, focal prey species only, focal predator species only, and non-focal species (non-Simpson Desert) only.
 <em>ii</em>.	CORRELATION&CHANGE_PROBABILITY
 contains scripts testing the effects of modifying the focal-predator component of training data (removing records or switching interactions to noninteractions) on (a) relative suitability of different prey for each predator and (b) the mean probability assigned to potential prey for each predator.
+3) VARIABLE_IMPORTANCE
+contains 6 scripts for identifying the most important variables to retain in the few-variable models.
 
 ### SUPPORTING INFORMATION DATA FOLDER
 The supporting information data folder contains 3 files.:
