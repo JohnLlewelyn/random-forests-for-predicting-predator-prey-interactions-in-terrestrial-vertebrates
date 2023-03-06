@@ -1,30 +1,41 @@
 #switch interactions to non-interactions for species pairs that only include non-Simpson Desert species.
 #update file paths to run (search for lines with "###" to find where required)
 
-library(ranger)
-setwd("~/###")
+setwd("###")
 source("###/all_functions_ranger.R")
+source("###/opt_functions.R")
+
+#libraries
+library(ranger)
 
 #get data
-Int <- readRDS("###/GloBIplus_Int20EVs.RDS")
-Non <- readRDS("###/allNon_sameCont.RDS")
-SD_foc <- readRDS("###/allperms_cut2_20EVs.RDS")
+Int <- readRDS("###/data/GloBIplus_Int20EVs.RDS")
+Non <- readRDS("###/data/allNon_sameCont.RDS")
+SD_foc <- readRDS("###/data/SD_focUpdate.rds")
 
 #add source_aerial_mam column to Int (because it's in the target and therefore potentially the noninteraction source column)
 Int$source_aerial_mam <- 0
 SD_foc$source_aerial_mam <- 0
 
-#remove cols
-kp <- names(Non)[!(grepl("eig",names(Non)))]
+#cut global dataset to species with 5 or more records
+ch<-data.frame(table(Int$sourceTaxonName))
+prds <- ch$Var1[ch$Freq>4]
+Int<-Int[Int$sourceTaxonName%in%prds,]
+Non<-Non[Non$sourceTaxonName%in%prds,]
+
+#remove columns not required
+kp <- c("targetTaxonName","sourceTaxonName","interact","outside",paste("target", "eig", 1:21, sep=""), paste("source", "eig", 1:21, sep="")) #cut to 21 because there are 21 ecomorphological variables
+nms <- names(Non)[!(grepl("eig",names(Non)))]
+kp <- unique(c(kp,nms))
 Int <- Int[,names(Int)%in%c(kp,"interact","outside")]
 Non <- Non[,names(Non)%in%c(kp,"interact","outside")]
-SD_foc <- SD_foc[,names(SD_foc)%in%c(kp,"interact","outside")]
+SD_foc <- SD_foc[,names(SD_foc)%in%c(kp)]  #deleted "interact","outside" because don't need this in this dataset
 
 #Simpson Desert species
 sp <- unique(c(SD_foc$sourceTaxonName,SD_foc$targetTaxonName))
 
 #the function
-rf_TDS <- function(x,y,ins,out,abs,dt_test, thresh,mtr,perc,...){
+rf_TDSmod <- function(x,y,ins,out,abs,dt_test, thresh,mtr,ntrees,mdepth,perc,...){
   obs <- x
   obs$interact <- as.factor(TRUE)
   obs$outside = "present"
@@ -55,14 +66,15 @@ rf_TDS <- function(x,y,ins,out,abs,dt_test, thresh,mtr,perc,...){
               num.threads = 20, 
               probability = T, 
               importance = 'impurity',
-              case.weights = data_w)
+              case.weights = data_w,
+              num.trees = ntrees,
+              max.depth = mdepth)
   predic = predict(rf, data=dt_test[,-(which(names(dt_test)%in%c("interact","sourceTaxonName","targetTaxonName")))])
   scores = predic$predictions[,1]
   lbls <- dt_test$interact
   lbls <- ifelse(lbls=="TRUE",1,0)
   all_auc <- auc(scores, lbls)
   predic = predic$predictions[,1] > thresh
-  #res <- data.frame(cbind(as.logical(dt_test$interact),predic))
   pred_perf <- table(dt_test$interact, predic)
   all_tss <- round(tssF(pred_perf),3)
   list(Tsk=c(all_tss),Ac=c(all_auc),num_removed = sel1)
@@ -71,16 +83,14 @@ rf_TDS <- function(x,y,ins,out,abs,dt_test, thresh,mtr,perc,...){
 
 #put it in a for loop
 output <- list()
-for(i in 1:100){
-  dt <- replicate(10,rf_TDS(Int,Non,ins=1,out=1,abs=4,SD_foc,thresh=0.43,mtr=11,num.trees=800,max.depth=1000, perc = i))
+for(i in 0:100){
+  dt <- replicate(10,rf_TDSmod(Int,Non,ins=2.5,out=1,abs=4.75,SD_foc,thresh=0.31,mtr=42,ntrees=400,mdepth=0, perc = i))
   dt <- rbind(dt,i)
   output[[length(output) + 1]] <- dt   
+  print(i)
 }
-saveRDS(output,"data/falseNeg_results_nonSD.rds")
+saveRDS(output,"###/results/falseNeg_results_nonSD.rds")
 
-#get the required data from the list together
-op <- data.frame(t(do.call("cbind", output)))
-op <- data.frame(apply(op,2,unlist))
-
-plot(op$i,op$Tsk,xlab="% of full training dataset", ylab = "TSS", pch = 19, cex = 0.5, col=rgb(red=0.1, green=0.2, blue=0.2, alpha=0.3))
+#run it 100 times when all changed
+dt <- replicate(100,rf_TDSmod(Int,Non,ins=2.5,out=1,abs=4.75,SD_foc,thresh=0.31,mtr=42,ntrees=400,mdepth=0, perc = 100))
 

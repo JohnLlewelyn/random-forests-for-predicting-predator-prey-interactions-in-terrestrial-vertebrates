@@ -1,29 +1,38 @@
 #Training dataset size (TDS) and performance (remove records)
 #update file paths to run (search for lines with "###" to find where required)
 
-setwd("~/###")
+setwd("###")
 source("###/all_functions_ranger.R")
+source("###/opt_functions.R")
 
 #libraries
 library(ranger)
 
 #get the data
-Int <- readRDS("###/GloBIplus_Int20EVs.RDS")
-Non <- readRDS("###/allNon_sameCont.RDS")
-SD_foc <- readRDS("###/allperms_cut2_20EVs.RDS")
+Int <- readRDS("###/data/GloBIplus_Int20EVs.RDS")
+Non <- readRDS("###/data/allNon_sameCont.RDS")
+SD_foc <- readRDS("###/data/SD_focUpdate.rds")
 
 #add source_aerial_mam column to Int (because it's in the target and therefore potentially the noninteraction source column)
 Int$source_aerial_mam <- 0
 SD_foc$source_aerial_mam <- 0
 
-#remove eig > 600
+#cut global dataset to species with 5 or more records
+ch<-data.frame(table(Int$sourceTaxonName))
+prds <- ch$Var1[ch$Freq>4]
+Int<-Int[Int$sourceTaxonName%in%prds,]
+Non<-Non[Non$sourceTaxonName%in%prds,]
+
+#remove columns not required
+kp <- c("targetTaxonName","sourceTaxonName","interact","outside",paste("target", "eig", 1:21, sep=""), paste("source", "eig", 1:21, sep="")) #cut to 21 because there are 21 ecomorphological variables
 nms <- names(Non)[!(grepl("eig",names(Non)))]
-Int <- Int[,names(Int)%in%c(nms,"interact","outside")]
-Non <- Non[,names(Non)%in%c(nms,"interact","outside")]
-SD_foc <- SD_foc[,names(SD_foc)%in%c(nms,"interact","outside")]
+kp <- unique(c(kp,nms))
+Int <- Int[,names(Int)%in%c(kp,"interact","outside")]
+Non <- Non[,names(Non)%in%c(kp,"interact","outside")]
+SD_foc <- SD_foc[,names(SD_foc)%in%c(kp)]  #deleted "interact","outside" because don't need this in this dataset
 
 #the function
-rf_TDS <- function(x,y,ins,out,abs,dt_test, thresh,mtr,perc,...){
+rf_TDSmod <- function(x,y,ins,out,abs,dt_test, thresh,mtr,mdepth,ntrees,perc,...){
   obs <- x
   obs$interact <- as.factor(TRUE)
   obs$outside = "present"
@@ -37,7 +46,7 @@ rf_TDS <- function(x,y,ins,out,abs,dt_test, thresh,mtr,perc,...){
   unobs$interact <- as.factor(FALSE)
   data <- rbind(obs,unobs)
   data$outside = NULL
-  data = data[,-tax_cols(data)]  #ch[[2]] <- ch[[2]][,-tax_cols(ch[[2]])]
+  data = data[,-tax_cols(data)]  #
   dt_test = dt_test[,names(data)]
   #remove rows based on perc (remove from data and data_w)
   sel1 <- round(perc/100*dim(data)[1])
@@ -51,14 +60,15 @@ rf_TDS <- function(x,y,ins,out,abs,dt_test, thresh,mtr,perc,...){
               num.threads = 20, 
               probability = T, 
               importance = 'impurity',
-              case.weights = data_w)
+              case.weights = data_w,
+              max.depth = mdepth,
+              num.trees = ntrees)
   predic = predict(rf, data=dt_test[,-(which(names(dt_test)%in%c("interact","sourceTaxonName","targetTaxonName")))])
   scores = predic$predictions[,1]
   lbls <- dt_test$interact
   lbls <- ifelse(lbls=="TRUE",1,0)
   all_auc <- auc(scores, lbls)
   predic = predic$predictions[,1] > thresh
-  #res <- data.frame(cbind(as.logical(dt_test$interact),predic))
   pred_perf <- table(dt_test$interact, predic)
   all_tss <- round(tss(pred_perf),3)
   round(tss(pred_perf),3)
@@ -68,18 +78,18 @@ rf_TDS <- function(x,y,ins,out,abs,dt_test, thresh,mtr,perc,...){
 
 
 #put it in a for loop
+set.seed(123)
 output <- list()
 for(i in 1:100){
-  dt <- replicate(10,rf_TDS(Int,Non,ins=1,out=1,abs=4,SD_foc,thresh=0.43,mtr=11,num.trees=800,max.depth=1000, perc = i))
+  dt <- replicate(10,rf_TDSmod(Int,Non,ins=2.5,out=1,abs=4.75,SD_foc,thresh=0.31,mtr=42,ntrees=400,mdepth=0, perc = i))
   dt <- rbind(dt,i)
   output[[length(output) + 1]] <- dt   
   print(i)
 }
-saveRDS(output,"###/training_data_size_results.rds")
+saveRDS(output,"###/results/training_data_size_results.rds")
 
-#get the required data from the list together
+#get the required data from the list together to plot
 op <- data.frame(t(do.call("cbind", output)))
 op <- data.frame(apply(op,2,unlist))
-
 plot(op$i,op$Tsk,xlab="% of full training dataset", ylab = "TSS", pch = 19, cex = 0.5, col=rgb(red=0.1, green=0.2, blue=0.2, alpha=0.3))
 
