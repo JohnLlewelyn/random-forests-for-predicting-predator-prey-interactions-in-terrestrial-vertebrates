@@ -20,7 +20,7 @@ Each of the interaction and non-interaction files include all ecomorphological t
 The functions folder contains three files with functions required by the script files:
 - (<code>all_functions_ranger.R</code>),
 - (<code>opt.functions.R</code>),
-- (<code>variable_importance_functions</code>).
+- (<code>variable_importance_functions.R</code>).
 
 ### SCRIPT FOLDER
 The script folder contains three more folders.
