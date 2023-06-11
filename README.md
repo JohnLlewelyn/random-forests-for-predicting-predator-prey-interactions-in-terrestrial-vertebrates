@@ -1,8 +1,10 @@
 ## Predicting predator-prey interactions in terrestrial endotherms using random forest
-<img align="right" src="network figure.jpg" alt="contraception" width="400" style="margin-top: 20px">
+<img align="right" src="network figure.png" alt="network predictions" width="400" style="margin-top: 20px">
 
-Accompanies paper:
+Accompanies paper:<br>
+<a href="https://globalecologyflinders.com/people/#JL">Llewelyn, J</a>, G Strona, CR Dickman, A Greenville, G Wardle, MSY Lee, S Doherty, F Shabani, F Saltré, CJA Bradshaw. 2023. Predicting predator-prey interactions in terrestrial endotherms using random forest. <em>Ecography</em> doi:<a href="http://doi.org/10.1111/ecog.06619">10.1111/ecog.06619</a>
 
+and (out-of-date) preprint:<br>
 <a href="https://globalecologyflinders.com/people/#JL">Llewelyn, J</a>, G Strona, CR Dickman, A Greenville, G Wardle, MSY Lee, S Doherty, F Shabani, F Saltré, CJA Bradshaw. 2022. Predicting predator-prey interactions in terrestrial endotherms using random forest. <em>bioRχiv</em> doi:<a href="http://doi.org/10.1101/2022.09.02.506446">10.1101/2022.09.02.506446</a>
 
 The files include a folder with data files (.rds format) and a folder with R scripts. File paths will need to be adjusted once downloaded, and can be found in the scripts by searching for “###”.
