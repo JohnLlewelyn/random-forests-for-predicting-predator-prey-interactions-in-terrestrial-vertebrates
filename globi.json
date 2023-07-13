@@ -51,24 +51,24 @@
     "interactionTypeName" : "preysOn",
     "tableSchema" : {
       "columns" : [ {
-        "name" : "sourceTaxonName",
-        "titles" : "sourceTaxonName",
-        "datatype" : "string"
-      }, {
         "name" : "targetTaxonName",
         "titles" : "targetTaxonName",
         "datatype" : "string"
       }, {
+        "name" : "sourceTaxonName",
+        "titles" : "sourceTaxonName",
+        "datatype" : "string"
+      }, {
         "name" : "referenceAuthor",
-        "titles" : "author",
+        "titles" : "sourceAuthor",
         "datatype" : "string"
       }, {
         "name" : "referenceYear",
-        "titles" : "year",
+        "titles" : "Year",
         "datatype" : "string"
       }, {
         "name" : "referenceJournal",
-        "titles" : "journal",
+        "titles" : "Journal",
         "datatype" : "string"
       } ]
     }
