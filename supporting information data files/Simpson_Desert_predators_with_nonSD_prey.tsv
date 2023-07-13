@@ -1,0 +1,692 @@
+sourceTaxonName	targetTaxonName	author	year	journal
+Canis lupus	Macropus rufus	Vernes et al	2020	Journal of Arid Environments
+Canis lupus	Notomys fuscus	Vernes et al	2020	Journal of Arid Environments
+Canis lupus	Bos taurus	Vernes et al	2020	Journal of Arid Environments
+Canis lupus	Canis lupus	Vernes et al	2020	Journal of Arid Environments
+Canis lupus	Haliastur sphenurus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Tadorna radjah	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Anseranas semipalmata	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Burhinus grallarius	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Sterna bergii	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Alcedo or Todiramphus sp	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Dacelo novaeguineae	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Leipoa ocellata	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Gallus gallus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Acanthiza uropygialis	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Aphelocephala sp	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Hirundo neoxena	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Cincloramphus cruralis	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Malurus cyaneus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Malurus splendens	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Menura novaehollandiae	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Anthus richardi	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Pachyptila turtur	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Calyptorhynchus sp	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Platycercus venustus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Alisterus scapularis	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Trichoglossus haematodus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Eudyptula minor	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Ctenophorus pictus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Lophognathus gilberti	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Tympanocryptis lineata	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Ctenotus grandis	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Tiliqua rugosa	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Tiliqua scincoides	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Varanus spenceri	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Varanus varius	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Caretta caretta	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Chelonia mydas	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Eretmochelys imbricata	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Lepidochelys olivacea	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Antechinomys laniger	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Antechinus agilis	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Antechinus flavipes	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Antechinus stuartii	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Antechinus swainsonii	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Dasycercus blythi	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Dasykaluta rosamondae	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Dasyuroides byrnei	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Ningaui timealeyi	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Ningaui yvonnae	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Phascogale tapoatafa	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Planigale maculata	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Pseudantechinus bilarni	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Sminthopsis leucopus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Sminthopsis murina	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Acrobates pygmaeus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Burramys parvus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Cercartetus caudatus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Cercartetus nanus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Dactylopsila trivirgata	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Petaurus breviceps	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Petaurus norfolcensis	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Notoryctes caurinus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Notoryctes typhlops	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Isoodon auratus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Mastacomys fuscus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Melomys burtoni	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Melomys cervinipes	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Notomys fuscus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Notomys mitchellii	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Pseudomys apodemoides	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Pseudomys australis	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Pseudomys delicatulus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Pseudomys fumeus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Pseudomys gracilicaudatus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Pseudomys nanus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Pseudomys novaehollandiae	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Pseudomys oralis	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Rattus colletti	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Rattus fuscipes	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Rattus leucopus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Rattus lutreolus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Rattus rattus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Rattus sordidus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Rattus tunneyi	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Zyzomys argurus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Zyzomys woodwardi	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Pteropus alecto	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Pteropus conspicillatus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Pteropus poliocephalus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Dasyurus hallucatus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Dasyurus maculatus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Dendrolagus lumholtzi	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Lagorchestes conspicillatus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Lagorchestes hirsutus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Macropus parma	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Onychogalea fraenata	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Onychogalea unguifera	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Petrogale assimilis	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Petrogale burbidgei	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Petrogale brachyotis	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Petrogale herberti	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Petrogale lateralis	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Petrogale persephone	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Petrogale rothschildi	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Thylogale stigmatica	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Thylogale thetis	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Petaurus australis	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Trichosurus caninus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Trichosurus cunninghami	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Trichosurus vulpecula	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Wyulda squamicaudata	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Aepyprymnus rufescens	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Bettongia lesueur	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Bettongia tropica	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Hypsiprymnodon moschatus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Potorous longipes	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Potorous tridactylus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Hemibelideus lemuroides	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Petauroides volans	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Pseudochirulus cinereus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Pseudochirulus herbertensis	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Pseudocheirus peregrinus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Pseudochirops archeri	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Lepus europaeus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Ornithorhynchus anatinus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Isoodon macrourus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Isoodon obesulus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Macrotis lagotis	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Perameles nasuta	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Hydromys chrysogaster	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Mesembriomys gouldii	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Mesembriomys macrurus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Uromys caudimaculatus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Arctocephalus forsteri	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Balaenoptera acutorostrata	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Megaptera novaeangliae	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Orcinus orca	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Peponocephala electra	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Stenella attenuata	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Tursiops aduncus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Kogia breviceps	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Physeter macrocephalus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Ziphius cavirostris	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Macropus agilis	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Macropus antilopinus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Macropus dorsalis	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Macropus fuliginosus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Macropus giganteus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Macropus parryi	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Macropus bernardus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Macropus rufogriseus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Macropus rufus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Petrogale penicillata	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Wallabia bicolor	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Phascolarctos cinereus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Lasiorhinus krefftii	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Lasiorhinus latifrons	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Vombatus ursinus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Dugong dugon	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Capra hircus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Ovis aries	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Axis porcinus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Bos taurus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Bubalus bubalis	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Rusa unicolor	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Equus africanus asinus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Equus caballus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Ziziphus mauritiana	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Rubus plicatus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Trichosurus vulpecula	McDonald et al	2018	Journal of Mammalogy
+Canis lupus	Macropus rufus	McDonald et al	2018	Journal of Mammalogy
+Canis lupus	Equus caballus	McDonald et al	2018	Journal of Mammalogy
+Canis lupus	Bos taurus	McDonald et al	2018	Journal of Mammalogy
+Canis lupus	Capra hircus	McDonald et al	2018	Journal of Mammalogy
+Canis lupus	Notomys fuscus	Tatler et al	2019	Mammal Review
+Canis lupus	Pseudomys australis	Tatler et al	2019	Mammal Review
+Canis lupus	Notoryctes typhlops	Tatler et al	2019	Mammal Review
+Canis lupus	Dasycercus blythi	Tatler et al	2019	Mammal Review
+Canis lupus	Macrotis lagotis	Tatler et al	2019	Mammal Review
+Canis lupus	Trichosurus vulpecula	Tatler et al	2019	Mammal Review
+Canis lupus	Lagorchestes conspicillatus	Tatler et al	2019	Mammal Review
+Canis lupus	Petrogale rothschildi	Tatler et al	2019	Mammal Review
+Canis lupus	Onychogalea unguifera	Tatler et al	2019	Mammal Review
+Canis lupus	Macropus fuliginosus	Tatler et al	2019	Mammal Review
+Canis lupus	Ovis aries	Tatler et al	2019	Mammal Review
+Canis lupus	Capra hircus	Tatler et al	2019	Mammal Review
+Canis lupus	Equus caballus	Tatler et al	2019	Mammal Review
+Canis lupus	Bos taurus	Tatler et al	2019	Mammal Review
+Canis lupus	Notomys fuscus	Tatler et al	2019	Mammal Review
+Canis lupus	Bos taurus	Tatler et al	2019	Mammal Review
+Felis catus	Ningaui ridei	McDonald et al	2018	Journal of Mammalogy
+Felis catus	Sminthopsis longicaudata	McDonald et al	2018	Journal of Mammalogy
+Felis catus	Zyzomys pedunculatus	McDonald et al	2018	Journal of Mammalogy
+Felis catus	Trichosurus vulpecula	McDonald et al	2018	Journal of Mammalogy
+Felis catus	Anas gibberifrons	Read and Bowen	2001	Wildlife Research
+Felis catus	Ctenophorus fordi	Read and Bowen	2001	Wildlife Research
+Felis catus	Ctenophorus pictus	Read and Bowen	2001	Wildlife Research
+Felis catus	Ctenotus olympicus	Read and Bowen	2001	Wildlife Research
+Felis catus	Ctenotus robustus	Read and Bowen	2001	Wildlife Research
+Felis catus	Ctenotus strauchii	Read and Bowen	2001	Wildlife Research
+Felis catus	Diplodactylus damaeus	Read and Bowen	2001	Wildlife Research
+Felis catus	Diplodactylus tessellatus	Read and Bowen	2001	Wildlife Research
+Felis catus	Eremiascincus richardsonii	Read and Bowen	2001	Wildlife Research
+Felis catus	Morethia boulengeri	Read and Bowen	2001	Wildlife Research
+Felis catus	Mus musculus	Read and Bowen	2001	Wildlife Research
+Felis catus	Nephrurus milli	Read and Bowen	2001	Wildlife Research
+Felis catus	Passer domesticus	Read and Bowen	2001	Wildlife Research
+Felis catus	Psephotus varius	Read and Bowen	2001	Wildlife Research
+Felis catus	Pseudomys bolami	Read and Bowen	2001	Wildlife Research
+Felis catus	Ramphotyphlops bituberculatis	Read and Bowen	2001	Wildlife Research
+Felis catus	Simoselaps bertholdi	Read and Bowen	2001	Wildlife Research
+Felis catus	Suta suta	Read and Bowen	2001	Wildlife Research
+Felis catus	Tiliqua rugosa	Read and Bowen	2001	Wildlife Research
+Felis catus	Tympanocryptis intima	Read and Bowen	2001	Wildlife Research
+Felis catus	Tympanocryptis lineata	Read and Bowen	2001	Wildlife Research
+Felis catus	Antechinomys laniger	Vernes et al	2020	Journal of Arid Environments
+Felis catus	Macropus rufus	Vernes et al	2020	Journal of Arid Environments
+Felis catus	Notomys fuscus	Vernes et al	2020	Journal of Arid Environments
+Felis catus	Bos taurus	Vernes et al	2020	Journal of Arid Environments
+Felis catus	Canis lupus	Vernes et al	2020	Journal of Arid Environments
+Felis catus	Acrobates pygmaeus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Burramys parvus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Cercartetus caudatus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Antechinomys laniger	Doherty et al	2015	Journal of Biogeography
+Felis catus	Antechinus adustus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Antechinus flavipes	Doherty et al	2015	Journal of Biogeography
+Felis catus	Antechinus godmani	Doherty et al	2015	Journal of Biogeography
+Felis catus	Antechinus stuartii	Doherty et al	2015	Journal of Biogeography
+Felis catus	Antechinus swainsonii	Doherty et al	2015	Journal of Biogeography
+Felis catus	Dasykaluta rosamondae	Doherty et al	2015	Journal of Biogeography
+Felis catus	Dasyurus geoffroii	Doherty et al	2015	Journal of Biogeography
+Felis catus	Dasyurus hallucatus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Ningaui timealeyi	Doherty et al	2015	Journal of Biogeography
+Felis catus	Phascogale tapoatafa	Doherty et al	2015	Journal of Biogeography
+Felis catus	Planigale ingrami	Doherty et al	2015	Journal of Biogeography
+Felis catus	Planigale maculata	Doherty et al	2015	Journal of Biogeography
+Felis catus	Sminthopsis dolichura	Doherty et al	2015	Journal of Biogeography
+Felis catus	Sminthopsis douglasi	Doherty et al	2015	Journal of Biogeography
+Felis catus	Sminthopsis gilberti	Doherty et al	2015	Journal of Biogeography
+Felis catus	Sminthopsis ooldea	Doherty et al	2015	Journal of Biogeography
+Felis catus	Lagorchestes hirsutus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Lagostrophus fasciatus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Macropus fuliginosus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Macropus giganteus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Onychogalea fraenata	Doherty et al	2015	Journal of Biogeography
+Felis catus	Petrogale lateralis	Doherty et al	2015	Journal of Biogeography
+Felis catus	Petrogale penicillata	Doherty et al	2015	Journal of Biogeography
+Felis catus	Petrogale xanthopus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Setonix brachyurus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Wallabia bicolor	Doherty et al	2015	Journal of Biogeography
+Felis catus	Myrmecobius fasciatus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Notoryctes typhlops	Doherty et al	2015	Journal of Biogeography
+Felis catus	Isoodon macrourus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Isoodon obesulus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Perameles bougainville	Doherty et al	2015	Journal of Biogeography
+Felis catus	Perameles gunnii	Doherty et al	2015	Journal of Biogeography
+Felis catus	Perameles nasuta	Doherty et al	2015	Journal of Biogeography
+Felis catus	Petaurus breviceps	Doherty et al	2015	Journal of Biogeography
+Felis catus	Trichosurus vulpecula	Doherty et al	2015	Journal of Biogeography
+Felis catus	Bettongia lesueur	Doherty et al	2015	Journal of Biogeography
+Felis catus	Bettongia penicillata	Doherty et al	2015	Journal of Biogeography
+Felis catus	Petauroides volans	Doherty et al	2015	Journal of Biogeography
+Felis catus	Pseudocheirus peregrinus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Pseudochirulus herbertensis	Doherty et al	2015	Journal of Biogeography
+Felis catus	Tarsipes rostratus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Macrotis lagotis	Doherty et al	2015	Journal of Biogeography
+Felis catus	Vombatus ursinus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Mormopterus planiceps	Doherty et al	2015	Journal of Biogeography
+Felis catus	Pteropus melanotus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Vespadelus vulturnus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Hydromys chrysogaster	Doherty et al	2015	Journal of Biogeography
+Felis catus	Leggadina lakedownensis	Doherty et al	2015	Journal of Biogeography
+Felis catus	Mastacomys fuscus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Melomys burtoni	Doherty et al	2015	Journal of Biogeography
+Felis catus	Melomys cervinipes	Doherty et al	2015	Journal of Biogeography
+Felis catus	Notomys mitchellii	Doherty et al	2015	Journal of Biogeography
+Felis catus	Pogonomys macrourus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Pseudomys albocinereus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Pseudomys bolami	Doherty et al	2015	Journal of Biogeography
+Felis catus	Pseudomys delicatulus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Pseudomys nanus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Rattus colletti	Doherty et al	2015	Journal of Biogeography
+Felis catus	Rattus fuscipes	Doherty et al	2015	Journal of Biogeography
+Felis catus	Rattus leucopus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Rattus lutreolus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Rattus norvegicus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Rattus rattus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Rattus tunneyi	Doherty et al	2015	Journal of Biogeography
+Felis catus	Uromys caudimaculatus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Uromys hadrourus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Zyzomys argurus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Bos taurus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Capra hircus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Lepus europaeus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Oryctolagus cuniculus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Ovis aries	Doherty et al	2015	Journal of Biogeography
+Felis catus	Amphibolurus burnsi	Doherty et al	2015	Journal of Biogeography
+Felis catus	Amphibolurus gilberti	Doherty et al	2015	Journal of Biogeography
+Felis catus	Amphibolurus muricatus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Amphibolurus temporalis	Doherty et al	2015	Journal of Biogeography
+Felis catus	Ctenophorus fordi	Doherty et al	2015	Journal of Biogeography
+Felis catus	Ctenophorus pictus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Ctenophorus reticulatus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Pogona barbata	Doherty et al	2015	Journal of Biogeography
+Felis catus	Pogona minor	Doherty et al	2015	Journal of Biogeography
+Felis catus	Pogona nullabor	Doherty et al	2015	Journal of Biogeography
+Felis catus	Tympanocryptis intima	Doherty et al	2015	Journal of Biogeography
+Felis catus	Tympanocryptis lineata	Doherty et al	2015	Journal of Biogeography
+Felis catus	Tympanocryptis tetraporophora	Doherty et al	2015	Journal of Biogeography
+Felis catus	Brachyurophis australis	Doherty et al	2015	Journal of Biogeography
+Felis catus	Brachyurophis incinctus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Brachyurophis semifasciatus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Cryptophis boschmai	Doherty et al	2015	Journal of Biogeography
+Felis catus	Demansia olivacea	Doherty et al	2015	Journal of Biogeography
+Felis catus	Denisonia devisi	Doherty et al	2015	Journal of Biogeography
+Felis catus	Drysdalia coronoides	Doherty et al	2015	Journal of Biogeography
+Felis catus	Furina diadema	Doherty et al	2015	Journal of Biogeography
+Felis catus	Furina ornata	Doherty et al	2015	Journal of Biogeography
+Felis catus	Hoplocephalus bitorquatus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Notechis scutatus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Parasuta spectabilis	Doherty et al	2015	Journal of Biogeography
+Felis catus	Pseudonaja affinis	Doherty et al	2015	Journal of Biogeography
+Felis catus	Pseudonaja ingrami	Doherty et al	2015	Journal of Biogeography
+Felis catus	Pseudonaja textilis	Doherty et al	2015	Journal of Biogeography
+Felis catus	Simoselaps anomalus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Simoselaps bertholdi	Doherty et al	2015	Journal of Biogeography
+Felis catus	Suta suta	Doherty et al	2015	Journal of Biogeography
+Felis catus	Vermicella snelli	Doherty et al	2015	Journal of Biogeography
+Felis catus	Amalosia rhombifer	Doherty et al	2015	Journal of Biogeography
+Felis catus	Christinus marmoratus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Cyrtodactylus sp	Doherty et al	2015	Journal of Biogeography
+Felis catus	Diplodactylus granariensis	Doherty et al	2015	Journal of Biogeography
+Felis catus	Diplodactylus pulcher	Doherty et al	2015	Journal of Biogeography
+Felis catus	Diplodactylus tessellatus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Diplodactylus vittatus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Gehyra australis	Doherty et al	2015	Journal of Biogeography
+Felis catus	Gehyra catenata	Doherty et al	2015	Journal of Biogeography
+Felis catus	Gehyra nana	Doherty et al	2015	Journal of Biogeography
+Felis catus	Hemidactylus frenatus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Heteronotia spelea	Doherty et al	2015	Journal of Biogeography
+Felis catus	Lucasium byrnei	Doherty et al	2015	Journal of Biogeography
+Felis catus	Lucasium steindachneri	Doherty et al	2015	Journal of Biogeography
+Felis catus	Nephrurus asper	Doherty et al	2015	Journal of Biogeography
+Felis catus	Oedura marmorata	Doherty et al	2015	Journal of Biogeography
+Felis catus	Strophurus intermedius	Doherty et al	2015	Journal of Biogeography
+Felis catus	Strophurus spinigerus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Underwoodisaurus milii	Doherty et al	2015	Journal of Biogeography
+Felis catus	Aprasia inaurita	Doherty et al	2015	Journal of Biogeography
+Felis catus	pygopus schraderi	Doherty et al	2015	Journal of Biogeography
+Felis catus	Pygopus steelescotti	Doherty et al	2015	Journal of Biogeography
+Felis catus	Acritoscincus duperreyi	Doherty et al	2015	Journal of Biogeography
+Felis catus	Carlia gracilis	Doherty et al	2015	Journal of Biogeography
+Felis catus	Carlia triacantha	Doherty et al	2015	Journal of Biogeography
+Felis catus	Cryptoblepharus egeriae	Doherty et al	2015	Journal of Biogeography
+Felis catus	Cryptoblepharus pannosus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Cryptoblepharus plagiocephalus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Ctenotus alacer	Doherty et al	2015	Journal of Biogeography
+Felis catus	Ctenotus atlas	Doherty et al	2015	Journal of Biogeography
+Felis catus	Ctenotus decaneurus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Ctenotus fallens	Doherty et al	2015	Journal of Biogeography
+Felis catus	Ctenotus hebetior	Doherty et al	2015	Journal of Biogeography
+Felis catus	Ctenotus joanae	Doherty et al	2015	Journal of Biogeography
+Felis catus	Ctenotus olympicus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Ctenotus quattuordecimlineatus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Ctenotus robustus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Ctenotus saxatilis	Doherty et al	2015	Journal of Biogeography
+Felis catus	Ctenotus strauchii	Doherty et al	2015	Journal of Biogeography
+Felis catus	Ctenotus uber	Doherty et al	2015	Journal of Biogeography
+Felis catus	Cyclodomorphus branchialis	Doherty et al	2015	Journal of Biogeography
+Felis catus	Egernia depressa	Doherty et al	2015	Journal of Biogeography
+Felis catus	Egernia stokesii	Doherty et al	2015	Journal of Biogeography
+Felis catus	Emoia atrocostata	Doherty et al	2015	Journal of Biogeography
+Felis catus	Emoia nativitatis	Doherty et al	2015	Journal of Biogeography
+Felis catus	Eremiascincus intermedius	Doherty et al	2015	Journal of Biogeography
+Felis catus	Eremiascincus richardsonii	Doherty et al	2015	Journal of Biogeography
+Felis catus	Hemiergis decresiensis	Doherty et al	2015	Journal of Biogeography
+Felis catus	Hemiergis peronii	Doherty et al	2015	Journal of Biogeography
+Felis catus	Lampropholis guichenot	Doherty et al	2015	Journal of Biogeography
+Felis catus	Lerista bipes	Doherty et al	2015	Journal of Biogeography
+Felis catus	Lerista bougainvillii	Doherty et al	2015	Journal of Biogeography
+Felis catus	Lerista desertorum	Doherty et al	2015	Journal of Biogeography
+Felis catus	Lerista macropisthopus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Lerista microtis	Doherty et al	2015	Journal of Biogeography
+Felis catus	Lerista picturata	Doherty et al	2015	Journal of Biogeography
+Felis catus	Lerista punctatovittata	Doherty et al	2015	Journal of Biogeography
+Felis catus	Lerista timida	Doherty et al	2015	Journal of Biogeography
+Felis catus	Liopholis striata	Doherty et al	2015	Journal of Biogeography
+Felis catus	Lygosoma bowringii	Doherty et al	2015	Journal of Biogeography
+Felis catus	Morethia adelaidensis	Doherty et al	2015	Journal of Biogeography
+Felis catus	Morethia boulengeri	Doherty et al	2015	Journal of Biogeography
+Felis catus	Morethia lineoocellata	Doherty et al	2015	Journal of Biogeography
+Felis catus	Morethia taeniopleura	Doherty et al	2015	Journal of Biogeography
+Felis catus	Niveoscincus metallicus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Niveoscincus ocellatus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Pseudemoia entrecasteauxii	Doherty et al	2015	Journal of Biogeography
+Felis catus	Pseudemoia pagenstecheri	Doherty et al	2015	Journal of Biogeography
+Felis catus	Tiliqua nigrolutea	Doherty et al	2015	Journal of Biogeography
+Felis catus	Tiliqua occipitalis	Doherty et al	2015	Journal of Biogeography
+Felis catus	Tiliqua rugosa	Doherty et al	2015	Journal of Biogeography
+Felis catus	Tiliqua scincoides	Doherty et al	2015	Journal of Biogeography
+Felis catus	Ramphotyphlops bicolor	Doherty et al	2015	Journal of Biogeography
+Felis catus	Ramphotyphlops bituberculatus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Ramphotyphlops grypus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Ramphotyphlops guentheri	Doherty et al	2015	Journal of Biogeography
+Felis catus	Ramphotyphlops hamatus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Ramphotyphlops ungirostris or ligatus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Varanus caudolineatus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Varanus glebopalma	Doherty et al	2015	Journal of Biogeography
+Felis catus	Varanus panoptes	Doherty et al	2015	Journal of Biogeography
+Felis catus	Varanus scalaris	Doherty et al	2015	Journal of Biogeography
+Felis catus	Varanus spenceri	Doherty et al	2015	Journal of Biogeography
+Felis catus	Varanus storri	Doherty et al	2015	Journal of Biogeography
+Felis catus	Chelodina longicollis	Doherty et al	2015	Journal of Biogeography
+Felis catus	Emydura krefftii	Doherty et al	2015	Journal of Biogeography
+Felis catus	Cyclorana alboguttata	Doherty et al	2015	Journal of Biogeography
+Felis catus	Cyclorana novaehollandiae	Doherty et al	2015	Journal of Biogeography
+Felis catus	Litoria caerulea	Doherty et al	2015	Journal of Biogeography
+Felis catus	Litoria cyclorhyncha	Doherty et al	2015	Journal of Biogeography
+Felis catus	Litoria ewingii	Doherty et al	2015	Journal of Biogeography
+Felis catus	Litoria latopalmata	Doherty et al	2015	Journal of Biogeography
+Felis catus	Litoria moorei	Doherty et al	2015	Journal of Biogeography
+Felis catus	Litoria peronii	Doherty et al	2015	Journal of Biogeography
+Felis catus	Crinia signifera	Doherty et al	2015	Journal of Biogeography
+Felis catus	Heleioporus eyrei	Doherty et al	2015	Journal of Biogeography
+Felis catus	Heleioporus psammophilus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Limnodynastes dorsalis	Doherty et al	2015	Journal of Biogeography
+Felis catus	Limnodynastes dumerilii	Doherty et al	2015	Journal of Biogeography
+Felis catus	Limnodynastes fletcheri	Doherty et al	2015	Journal of Biogeography
+Felis catus	Limnodynastes ornatus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Limnodynastes terraereginae	Doherty et al	2015	Journal of Biogeography
+Felis catus	Neobatrachus pictus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Acanthiza chrysorrhoa	Doherty et al	2015	Journal of Biogeography
+Felis catus	Acanthiza pusilla	Doherty et al	2015	Journal of Biogeography
+Felis catus	Acanthiza reguloides	Doherty et al	2015	Journal of Biogeography
+Felis catus	Sericornis frontalis	Doherty et al	2015	Journal of Biogeography
+Felis catus	Mirafra javanica	Doherty et al	2015	Journal of Biogeography
+Felis catus	Anas castanea	Doherty et al	2015	Journal of Biogeography
+Felis catus	Anas gibberifrons	Doherty et al	2015	Journal of Biogeography
+Felis catus	Anas rhynchotis	Doherty et al	2015	Journal of Biogeography
+Felis catus	Aythya australis	Doherty et al	2015	Journal of Biogeography
+Felis catus	Collocalia esculenta	Doherty et al	2015	Journal of Biogeography
+Felis catus	Cracticus torquatus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Callocephalon fimbriatum	Doherty et al	2015	Journal of Biogeography
+Felis catus	Charadrius bicinctus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Chalcophaps indica	Doherty et al	2015	Journal of Biogeography
+Felis catus	Columba livia	Doherty et al	2015	Journal of Biogeography
+Felis catus	Ducula whartoni	Doherty et al	2015	Journal of Biogeography
+Felis catus	Phaps elegans	Doherty et al	2015	Journal of Biogeography
+Felis catus	Stigmatopelia chinensis	Doherty et al	2015	Journal of Biogeography
+Felis catus	Corcorax melanorhamphos	Doherty et al	2015	Journal of Biogeography
+Felis catus	Struthidea cinerea	Doherty et al	2015	Journal of Biogeography
+Felis catus	Neochmia temporalis	Doherty et al	2015	Journal of Biogeography
+Felis catus	Taeniopygia bichenovii	Doherty et al	2015	Journal of Biogeography
+Felis catus	Stagonopleura oculata	Doherty et al	2015	Journal of Biogeography
+Felis catus	Carduelis carduelis	Doherty et al	2015	Journal of Biogeography
+Felis catus	Carduelis flammea	Doherty et al	2015	Journal of Biogeography
+Felis catus	Todiramphus sanctus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Hirundo neoxena	Doherty et al	2015	Journal of Biogeography
+Felis catus	Hirundo nigricans	Doherty et al	2015	Journal of Biogeography
+Felis catus	Larus dominicanus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Cincloramphus cruralis	Doherty et al	2015	Journal of Biogeography
+Felis catus	Malurus cyaneus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Leipoa ocellata	Doherty et al	2015	Journal of Biogeography
+Felis catus	Acanthorhynchus tenuirostris	Doherty et al	2015	Journal of Biogeography
+Felis catus	Anthochaera carunculata	Doherty et al	2015	Journal of Biogeography
+Felis catus	Lichenostomus chrysops	Doherty et al	2015	Journal of Biogeography
+Felis catus	Lichenostomus ornatus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Manorina melanocephala	Doherty et al	2015	Journal of Biogeography
+Felis catus	Philemon corniculatus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Phylidonyris novaehollandiae	Doherty et al	2015	Journal of Biogeography
+Felis catus	Anthus richardi	Doherty et al	2015	Journal of Biogeography
+Felis catus	Pachycephala pectoralis	Doherty et al	2015	Journal of Biogeography
+Felis catus	Aphelocephala leucopsis	Doherty et al	2015	Journal of Biogeography
+Felis catus	Pardalotus punctatus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Pardalotus striatus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Passer domesticus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Eopsaltria australis	Doherty et al	2015	Journal of Biogeography
+Felis catus	Petroica multicolor	Doherty et al	2015	Journal of Biogeography
+Felis catus	Petroica phoenicea	Doherty et al	2015	Journal of Biogeography
+Felis catus	Phalacrocorax atriceps	Doherty et al	2015	Journal of Biogeography
+Felis catus	Coturnix ypsilophora	Doherty et al	2015	Journal of Biogeography
+Felis catus	Pachyptila desolata	Doherty et al	2015	Journal of Biogeography
+Felis catus	Pachyptila turtur	Doherty et al	2015	Journal of Biogeography
+Felis catus	Pterodroma lessonii	Doherty et al	2015	Journal of Biogeography
+Felis catus	Puffinus tenuirostris	Doherty et al	2015	Journal of Biogeography
+Felis catus	Alisterus scapularis	Doherty et al	2015	Journal of Biogeography
+Felis catus	Neophema pulchella	Doherty et al	2015	Journal of Biogeography
+Felis catus	Northiella haematogaster	Doherty et al	2015	Journal of Biogeography
+Felis catus	Platycercus elegans	Doherty et al	2015	Journal of Biogeography
+Felis catus	Platycercus eximius	Doherty et al	2015	Journal of Biogeography
+Felis catus	Polytelis anthopeplus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Psephotus haematonotus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Psephotus varius	Doherty et al	2015	Journal of Biogeography
+Felis catus	Ptilonorhynchus violaceus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Gallirallus australis	Doherty et al	2015	Journal of Biogeography
+Felis catus	Gallinula mortierii	Doherty et al	2015	Journal of Biogeography
+Felis catus	Cladorhynchus leucocephalus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Rhipidura fuliginosa	Doherty et al	2015	Journal of Biogeography
+Felis catus	Rhipidura rufifrons	Doherty et al	2015	Journal of Biogeography
+Felis catus	Arenaria interpres	Doherty et al	2015	Journal of Biogeography
+Felis catus	Calidris ruficollis	Doherty et al	2015	Journal of Biogeography
+Felis catus	Aptenodytes patagonicus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Eudyptes chrysocome	Doherty et al	2015	Journal of Biogeography
+Felis catus	Eudyptes schlegeli	Doherty et al	2015	Journal of Biogeography
+Felis catus	Eudyptula minor	Doherty et al	2015	Journal of Biogeography
+Felis catus	Acridotheres tristis	Doherty et al	2015	Journal of Biogeography
+Felis catus	Sturnus vulgaris	Doherty et al	2015	Journal of Biogeography
+Felis catus	Turdus merula	Doherty et al	2015	Journal of Biogeography
+Felis catus	Turdus poliocephalus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Zoothera dauma	Doherty et al	2015	Journal of Biogeography
+Felis catus	Turnix pyrrhothorax	Doherty et al	2015	Journal of Biogeography
+Felis catus	Turnix varius	Doherty et al	2015	Journal of Biogeography
+Felis catus	Zosterops lateralis	Doherty et al	2015	Journal of Biogeography
+Felis catus	Zosterops natalis	Doherty et al	2015	Journal of Biogeography
+Felis catus	Neobatrachus sudelli	Woinarski et al	2018	Australian Mammalogy
+Felis catus	Ctenophorus gibba	Woinarski et al	2018	Australian Mammalogy
+Felis catus	Ctenophorus vadnappa	Woinarski et al	2018	Australian Mammalogy
+Felis catus	Pseudonaja aspidorhynca	Woinarski et al	2018	Australian Mammalogy
+Felis catus	Rhynchoedura eyerensis	Woinarski et al	2018	Australian Mammalogy
+Felis catus	Ctenotus taeniatus	Woinarski et al	2018	Australian Mammalogy
+Felis catus	Amytornis textilis	Woinarski et al	2018	Australian Mammalogy
+Vulpes vulpes	Tiliqua rugosa	Read and Bowen	2001	Wildlife Research
+Vulpes vulpes	Ramphotyphlops bituberculatis	Read and Bowen	2001	Wildlife Research
+Vulpes vulpes	Peltohyas australis	Read and Bowen	2001	Wildlife Research
+Vulpes vulpes	Mus musculus	Read and Bowen	2001	Wildlife Research
+Vulpes vulpes	Notoryctes typhlops	Paltridge	2002	Wildlife Research
+Vulpes vulpes	Tiliqua scincoides	Paltridge	2002	Wildlife Research
+Vulpes vulpes	Neobatrachus sudelli	Woinarski et al	20018	Australian Mammalogy
+Vulpes vulpes	Rhynchoedura eyerensis	Woinarski et al	20018	Australian Mammalogy
+Vulpes vulpes	Ctenophorus pictus	Woinarski et al	20018	Australian Mammalogy
+Vulpes vulpes	Tympanocryptis intima	Woinarski et al	20018	Australian Mammalogy
+Vulpes vulpes	Tympanocryptis tetraporophora	Woinarski et al	20018	Australian Mammalogy
+Vulpes vulpes	Ctenotus olympicus	Woinarski et al	20018	Australian Mammalogy
+Vulpes vulpes	Egernia stokesii	Woinarski et al	20018	Australian Mammalogy
+Vulpes vulpes	Eremiascincus richardsoni	Woinarski et al	20018	Australian Mammalogy
+Vulpes vulpes	Tiliqua rugosa	Woinarski et al	20018	Australian Mammalogy
+Lialis burtonis	Carlia gracilis	Wall and Shine	2013	Asian Herpetological Research
+Lialis burtonis	Ctenotus spaldingi	Wall and Shine	2013	Asian Herpetological Research
+Lialis burtonis	Glaphyromorphus isolepis	Wall and Shine	2013	Asian Herpetological Research
+Lialis burtonis	Lerista carpentaria	Wall and Shine	2013	Asian Herpetological Research
+Varanus eremius	Morethia butleri	Pianka	1968	The Western Australian Naturalist
+Varanus eremius	Ctenotus grandis	Pianka	1968	The Western Australian Naturalist
+Varanus eremius	Ctenotus lesuerii	Pianka	1968	The Western Australian Naturalist
+Varanus eremius	Ctenotus quattuordecimlineautus	Pianka	1968	The Western Australian Naturalist
+Varanus eremius	Delma fraseri	Pianka	1968	The Western Australian Naturalist
+Varanus eremius	Lerista bipes	Pianka	1982	The Western Australian Naturalist
+Varanus eremius	Ctenophorus inermis	Pianka	2007	Ecology of Pygmy Monitor in Western Australia
+Varanus eremius	Delma butleri	Pianka	2007	Ecology of Pygmy Monitor in Western Australia
+Varanus eremius	Ctenotus quatuordecemlineatus	Pianka	2007	Ecology of Pygmy Monitor in Western Australia
+Varanus eremius	Ctenotus colletti	Pianka	2007	Ecology of Pygmy Monitor in Western Australia
+Varanus eremius	Morethia butleri	Pianka	2007	Ecology of Pygmy Monitor in Western Australia
+Varanus gouldii	Leporillus conditor	Bolton and Moseby	2004	Pacific Conservation Biology
+Varanus gouldii	Ctenophorus ornatus	Cross et al	2020	Journal of Zoology
+Varanus gouldii	Varanus caudolineatus	Cross et al	2020	Journal of Zoology
+Varanus gouldii	Pseudonaja mengdeni	Godwin et al	2020	Herpetological Review
+Varanus gouldii	Diplodactylus steindachneri	Losos and Greene	1988	Biological Journal of the Linnean Society
+Varanus gouldii	Ctenophorus pictus	Norval et al	2019	Reptiles and Amphibians
+Varanus gouldii	Psephotus varius	Norval et al	2019	Reptiles and Amphibians
+Varanus gouldii	Pogona minor	Pianka	1970	The Western Australian Naturalist
+Varanus gouldii	Lerista timida	Pianka	1970	The Western Australian Naturalist
+Varanus gouldii	Ctenotus atlas	Pianka	1970	The Western Australian Naturalist
+Varanus gouldii	Ctenotus colletti	Pianka	1970	The Western Australian Naturalist
+Varanus gouldii	Ctenotus quattuordecimlineatus	Pianka	1970	The Western Australian Naturalist
+Varanus gouldii	Varanus caudolineatus	Pianka	1970	The Western Australian Naturalist
+Varanus gouldii	Diplodactylus pulcher	Pianka	1970	The Western Australian Naturalist
+Varanus gouldii	Ctenotus grandis	Pianka	1982	The Western Australian Naturalist
+Varanus gouldii	Lerista bipes	Pianka	1982	The Western Australian Naturalist
+Varanus gouldii	Trichosurus vulpecula	Sutherland et al	2011	Proc. R. Soc. B
+Varanus gouldii	Dasyurus geoffroii	Sutherland et al	2011	Proc. R. Soc. B
+Varanus giganteus	Trichosurus arnhemensis	King et al	1989	Aust. Wildl. Res.
+Varanus giganteus	Isoodon auratus	King et al	1989	Aust. Wildl. Res.
+Aquila audax	Bos taurus	Aumann	2001	Wildlife Research
+Aquila audax	Egernia depressa	Brooker and Ridpath	1980	Australian Wildlife Research
+Aquila audax	Amphibolurus mitchelli	Brooker and Ridpath	1980	Australian Wildlife Research
+Aquila audax	Macropus agilis	Brooker and Ridpath	1980	Australian Wildlife Research
+Aquila audax	Tiliqua occipitalis	Brooker and Ridpath	1980	Australian Wildlife Research
+Aquila audax	Tiliqua rugosus	Brooker and Ridpath	1980	Australian Wildlife Research
+Aquila audax	Amphibolurus maculatus	Brooker and Ridpath	1980	Australian Wildlife Research
+Aquila audax	Amphibolurus minor	Brooker and Ridpath	1980	Australian Wildlife Research
+Aquila audax	Amphibolurus scutulatus	Brooker and Ridpath	1980	Australian Wildlife Research
+Aquila audax	Egernia stokesii	Brooker and Ridpath	1980	Australian Wildlife Research
+Aquila audax	Demansia modesta	Brooker and Ridpath	1980	Australian Wildlife Research
+Aquila audax	Anas superciliosa	Brooker and Ridpath	1980	Australian Wildlife Research
+Aquila audax	Calyptorhynchus baudinii	Brooker and Ridpath	1980	Australian Wildlife Research
+Aquila audax	Cacatua galerita	Brooker and Ridpath	1980	Australian Wildlife Research
+Aquila audax	Coturnix novaezelandiae	Brooker and Ridpath	1980	Australian Wildlife Research
+Aquila audax	Cuculus pallidus	Brooker and Ridpath	1980	Australian Wildlife Research
+Aquila audax	Pterodroma macroptera	Brooker and Ridpath	1980	Australian Wildlife Research
+Aquila audax	Corvus orru	Brooker and Ridpath	1980	Australian Wildlife Research
+Aquila audax	Corvus mellori	Brooker and Ridpath	1980	Australian Wildlife Research
+Aquila audax	Strepera versicolor	Brooker and Ridpath	1980	Australian Wildlife Research
+Aquila audax	Anthochaera carunculata	Brooker and Ridpath	1980	Australian Wildlife Research
+Aquila audax	Macropus fuliginosus	Brooker and Ridpath	1980	Australian Wildlife Research
+Aquila audax	Trichosurus vulpecula	Brooker and Ridpath	1980	Australian Wildlife Research
+Aquila audax	Ovis aries	Brooker and Ridpath	1980	Australian Wildlife Research
+Aquila audax	Capra hircus	Brooker and Ridpath	1980	Australian Wildlife Research
+Aquila audax	Dasyurus geoffroii	Cherriman	2007	Thesis
+Aquila audax	Isoodon obesulus	Cherriman	2007	Thesis
+Aquila audax	Trichosurus vulpecula	Cherriman	2007	Thesis
+Aquila audax	Bettongia penicillata	Cherriman	2007	Thesis
+Aquila audax	Macropus eugenii	Cherriman	2007	Thesis
+Aquila audax	Macropus fuliginosus	Cherriman	2007	Thesis
+Aquila audax	Macropus irma	Cherriman	2007	Thesis
+Aquila audax	Ovis aries	Cherriman	2007	Thesis
+Aquila audax	Capra hircus	Cherriman	2007	Thesis
+Aquila audax	Gallus gallus	Cherriman	2007	Thesis
+Aquila audax	Biziura lobata	Cherriman	2007	Thesis
+Aquila audax	Anas superciliosa	Cherriman	2007	Thesis
+Aquila audax	Columba livia	Cherriman	2007	Thesis
+Aquila audax	Stigmatopelia chinensis	Cherriman	2007	Thesis
+Aquila audax	Trichoglossus haematodus	Cherriman	2007	Thesis
+Aquila audax	Pogona minor	Cherriman	2007	Thesis
+Aquila audax	Tiliqua rugosa	Cherriman	2007	Thesis
+Aquila audax	Pogona barbata	Debus et al	1999	Australian Bird Watcher
+Aquila audax	Tiliqua scincoides	Debus et al	1999	Australian Bird Watcher
+Aquila audax	Macropus giganteus	Debus et al	2007	Australian Field Ornithology
+Aquila audax	Macropus rufogriseus	Debus et al	2007	Australian Field Ornithology
+Aquila audax	Lepus capensis	Debus et al	2007	Australian Field Ornithology
+Aquila audax	Ovis aries	Debus et al	2007	Australian Field Ornithology
+Aquila audax	Capra hircus	Debus et al	2007	Australian Field Ornithology
+Aquila audax	Gallus gallus	Debus et al	2007	Australian Field Ornithology
+Aquila audax	Meleagris gallopavo	Debus et al	2007	Australian Field Ornithology
+Aquila audax	Manorina melanocephala	Debus et al	2007	Australian Field Ornithology
+Aquila audax	Amphibolurus muricatus	Debus et al	2007	Australian Field Ornithology
+Aquila audax	Columba livia	Debus et al	2007	Australian Field Ornithology
+Aquila audax	Macropus fuliginosus	Sharp et al	2002	Wildlife Research
+Aquila audax	Macropus giganteus	Sharp et al	2002	Wildlife Research
+Aquila audax	Petrogale xanthopus	Sharp et al	2002	Wildlife Research
+Aquila audax	Capra hircus	Sharp et al	2002	Wildlife Research
+Aquila audax	Ovis aries	Sharp et al	2002	Wildlife Research
+Aquila audax	Mesophoyx intermedia	Sharp et al	2002	Wildlife Research
+Aquila audax	Barnardius zonarius	Sharp et al	2002	Wildlife Research
+Aquila audax	Cacatua leadbeateri	Sharp et al	2002	Wildlife Research
+Aquila audax	Cacatua galerita	Sharp et al	2002	Wildlife Research
+Aquila audax	Columba livia	Sharp et al	2002	Wildlife Research
+Aquila audax	Corvus mellori	Sharp et al	2002	Wildlife Research
+Aquila audax	Egretta novaehollandiae	Sharp et al	2002	Wildlife Research
+Aquila audax	Northiella haematogaster	Sharp et al	2002	Wildlife Research
+Aquila audax	Phalacrocorax carbo	Sharp et al	2002	Wildlife Research
+Aquila audax	Pomatostomus ruficeps	Sharp et al	2002	Wildlife Research
+Aquila audax	Struthidea cinerea	Sharp et al	2002	Wildlife Research
+Aquila audax	Tiliqua rugosus	Sharp et al	2002	Wildlife Research
+Aquila audax	Tiliqua scincoides	Sharp et al	2002	Wildlife Research
+Falco berigora	Bos taurus	Aumann	2001	Wildlife Research
+Falco berigora	Psephotus varius	Aumann	2001	Wildlife Research
+Falco berigora	Pogona minor	Aumann	2001	Wildlife Research
+Falco berigora	Ctenotus saxatilis	Aumann	2001	Wildlife Research
+Falco berigora	Geopelia striata	Corbett et al	2014	Corella
+Falco cenchroides	Todiramphus macleayii	Aumann	2001	Wildlife Research
+Falco cenchroides	Pogona minor	Aumann	2001	Wildlife Research
+Falco cenchroides	Psephotus haematonotus	Bollen	1991	Australian Bird Watcher
+Falco cenchroides	Passer domesticus	Bollen	1991	Australian Bird Watcher
+Falco cenchroides	Sturnus vulgaris	Bollen	1991	Australian Bird Watcher
+Falco cenchroides	Lampropholis guichenoti	Bollen	1991	Australian Bird Watcher
+Falco cenchroides	Stigmatopelia chinensis	Leach	2015	Australian Field Ornithology
+Falco cenchroides	Limnodynastes peronii	Leach	2015	Australian Field Ornithology
+Falco cenchroides	Lampropholis delicata	Leach	2015	Australian Field Ornithology
+Hamirostra melanosternon	Mormopterus planiceps	Aumann	2001	Wildlife Research
+Hamirostra melanosternon	Equus caballus	Aumann	2001	Wildlife Research
+Hamirostra melanosternon	Bos taurus	Aumann	2001	Wildlife Research
+Hamirostra melanosternon	Ardeotis kori	Aumann	2001	Wildlife Research
+Hamirostra melanosternon	Cacatua leadbeateri	Aumann	2001	Wildlife Research
+Hamirostra melanosternon	Psephotus varius	Aumann	2001	Wildlife Research
+Hamirostra melanosternon	Todiramphus macleayii	Aumann	2001	Wildlife Research
+Hamirostra melanosternon	Egernia striata	Aumann	2001	Wildlife Research
+Hamirostra melanosternon	Dasyurus hallucatus	Aumann	2016	Corella
+Hamirostra melanosternon	Sminthopsis virginiae	Aumann	2016	Corella
+Hamirostra melanosternon	Isoodon macrourus	Aumann	2016	Corella
+Hamirostra melanosternon	Bos taurus	Aumann	2016	Corella
+Hamirostra melanosternon	Capra hircus	Aumann	2016	Corella
+Hamirostra melanosternon	Trichoglossus haematodus	Aumann	2016	Corella
+Hamirostra melanosternon	Todiramphus macleayii	Aumann	2016	Corella
+Hamirostra melanosternon	Chlamydosaurus kingii	Aumann	2016	Corella
+Falco berigora	Sturnus vulgaris	Bollen, C.	1993	Australian bird watcher
+Falco berigora	Sminthopsis murina	McDonald, P.G., Olsen, J., Rose. A.B.	2012	Journal of Raptor Research
+Falco berigora	Pseudocheirus peregrinus	McDonald, P.G., Olsen, J., Rose. A.B.	2012	Journal of Raptor Research
+Falco berigora	Rattus rattus	McDonald, P.G., Olsen, J., Rose. A.B.	2012	Journal of Raptor Research
+Falco berigora	Lepus capensis	McDonald, P.G., Olsen, J., Rose. A.B.	2012	Journal of Raptor Research
+Falco berigora	Turnix varius	McDonald, P.G., Olsen, J., Rose. A.B.	2012	Journal of Raptor Research
+Falco berigora	Platycercus eximius	McDonald, P.G., Olsen, J., Rose. A.B.	2012	Journal of Raptor Research
+Falco berigora	Psephotus haematonotus	McDonald, P.G., Olsen, J., Rose. A.B.	2012	Journal of Raptor Research
+Falco berigora	Sturnus vulgaris	McDonald, P.G., Olsen, J., Rose. A.B.	2012	Journal of Raptor Research
+Falco berigora	Anthus novaeseelandiae	Bollen, C.	2019	Australian field ornithology
+Hamirostra melanosternon	Dasyurus hallucatus	Aumann, T., Baker-Gibb, D., & Debus, S. 	2016	Corella 
+Hamirostra melanosternon	Sminthopsis virginiae	Aumann, T., Baker-Gibb, D., & Debus, S. 	2016	Corella 
+Hamirostra melanosternon	Isoodon macrourus	Aumann, T., Baker-Gibb, D., & Debus, S. 	2016	Corella 
+Hamirostra melanosternon	Dendrocygna eytoni	Aumann, T., Baker-Gibb, D., & Debus, S. 	2016	Corella 
+Hamirostra melanosternon	Aegotheles cristatus 	Aumann, T., Baker-Gibb, D., & Debus, S. 	2016	Corella 
+Hamirostra melanosternon	Eolophus roseicapillus 	Aumann, T., Baker-Gibb, D., & Debus, S. 	2016	Corella 
+Hamirostra melanosternon	Trichoglossus haematodus 	Aumann, T., Baker-Gibb, D., & Debus, S. 	2016	Corella 
+Hamirostra melanosternon	Todiramphus macleayii 	Aumann, T., Baker-Gibb, D., & Debus, S. 	2016	Corella 

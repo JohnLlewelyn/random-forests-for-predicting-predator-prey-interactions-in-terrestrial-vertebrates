@@ -1,0 +1,76 @@
+{
+  "@context" : [ "http://www.w3.org/ns/csvw", {
+    "@language" : "en"
+  } ],
+  "rdfs:comment" : [ "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/" ],
+  "tables" : [ {
+    "@context" : [ "http://www.w3.org/ns/csvw", {
+      "@language" : "en"
+    } ],
+    "rdfs:comment" : [ "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/" ],
+    "url" : "supporting%20information%20data%20files/Simpson_Desert_predators_with_nonSD_prey.tsv",
+    "dcterms:bibliographicCitation" : "Llewelyn, J., Strona, G., Dickman, C.R., Greenville, A.C., Wardle, G.M., Lee, M.S.Y., Doherty, S., Shabani, F., Saltré, F. and Bradshaw, C.J.A. (2023), Predicting predator–prey interactions in terrestrial endotherms using random forest. Ecography e06619. https://doi.org/10.1111/ecog.06619",
+    "delimiter" : "\t",
+    "headerRowCount" : 1,
+    "interactionTypeId" : "http://purl.obolibrary.org/obo/RO_0002439",
+    "interactionTypeName" : "preysOn",
+    "tableSchema" : {
+      "columns" : [ {
+        "name" : "sourceTaxonName",
+        "titles" : "sourceTaxonName",
+        "datatype" : "string"
+      }, {
+        "name" : "targetTaxonName",
+        "titles" : "targetTaxonName",
+        "datatype" : "string"
+      }, {
+        "name" : "referenceAuthor",
+        "titles" : "author",
+        "datatype" : "string"
+      }, {
+        "name" : "referenceYear",
+        "titles" : "year",
+        "datatype" : "string"
+      }, {
+        "name" : "referenceJournal",
+        "titles" : "journal",
+        "datatype" : "string"
+      } ]
+    }
+  },
+  {
+    "@context" : [ "http://www.w3.org/ns/csvw", {
+      "@language" : "en"
+    } ],
+    "rdfs:comment" : [ "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/" ],
+    "url" : "supporting%20information%20data%20files/interactions_between_Simpson_Desert_species.tsv",
+    "dcterms:bibliographicCitation" : "Llewelyn, J., Strona, G., Dickman, C.R., Greenville, A.C., Wardle, G.M., Lee, M.S.Y., Doherty, S., Shabani, F., Saltré, F. and Bradshaw, C.J.A. (2023), Predicting predator–prey interactions in terrestrial endotherms using random forest. Ecography e06619. https://doi.org/10.1111/ecog.06619",
+    "delimiter" : "\t",
+    "headerRowCount" : 1,
+    "interactionTypeId" : "http://purl.obolibrary.org/obo/RO_0002439",
+    "interactionTypeName" : "preysOn",
+    "tableSchema" : {
+      "columns" : [ {
+        "name" : "sourceTaxonName",
+        "titles" : "sourceTaxonName",
+        "datatype" : "string"
+      }, {
+        "name" : "targetTaxonName",
+        "titles" : "targetTaxonName",
+        "datatype" : "string"
+      }, {
+        "name" : "referenceAuthor",
+        "titles" : "author",
+        "datatype" : "string"
+      }, {
+        "name" : "referenceYear",
+        "titles" : "year",
+        "datatype" : "string"
+      }, {
+        "name" : "referenceJournal",
+        "titles" : "journal",
+        "datatype" : "string"
+      } ]
+    }
+  } ]
+}
