@@ -60,7 +60,7 @@
         "datatype" : "string"
       }, {
         "name" : "referenceAuthor",
-        "titles" : "sourceAuthor",
+        "titles" : "authors_source",
         "datatype" : "string"
       }, {
         "name" : "referenceYear",
