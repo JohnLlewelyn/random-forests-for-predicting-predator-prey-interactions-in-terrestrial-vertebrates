@@ -1,0 +1,636 @@
+targetTaxonName	sourceTaxonName	authors_source	Year	Journal
+Nymphicus hollandicus	Falco hypoleucos	 Janse et al	2015	Corella
+Rattus villosissimus	Elanus scriptus	3rd year Dickman Lab project reports: n = ~500	unpublished data	
+Melopsittacus undulatus	Elanus scriptus	3rd year Dickman Lab project reports: n = ~500	unpublished data	
+Taeniopygia guttata	Elanus scriptus	3rd year Dickman Lab project reports: n = ~500	unpublished data	
+Stiltia isabella	Elanus scriptus	3rd year Dickman Lab project reports: n = ~500	unpublished data	
+Aegotheles cristatus	Hamirostra melanosternon	Aumann	2001	Wildlife Research
+Aprosmictus erythropterus	Hamirostra melanosternon	Aumann	2016	Corella
+Artamus cinereus	Hamirostra melanosternon	Aumann	2001	Wildlife Research
+Artamus personatus	Hamirostra melanosternon	Aumann	2001	Wildlife Research
+Barnardius zonarius	Hamirostra melanosternon	Aumann	2001	Wildlife Research
+Barnardius zonarius	Falco berigora	Aumann	2001	Wildlife Research
+Cacatua roseicapilla	Hamirostra melanosternon	Aumann	2001	Wildlife Research
+Canis lupus	Hamirostra melanosternon	Aumann	2001	Wildlife Research
+Chalinolobus gouldii	Falco berigora	Aumann	2001	Wildlife Research
+Cracticus nigrogularis	Hamirostra melanosternon	Aumann	2001	Wildlife Research
+Dasycercus cristicauda	Hamirostra melanosternon	Aumann	2001	Wildlife Research
+Dendrocygna eytoni	Hamirostra melanosternon	Aumann	2016	Corella
+Eurostopodus argus	Hamirostra melanosternon	Aumann	2001	Wildlife Research
+Falco longipennis	Hamirostra melanosternon	Aumann	2001	Wildlife Research
+Fulica atra	Aquila audax	Aumann	2001	Wildlife Research
+Geopelia cuneata	Falco cenchroides	Aumann	2001	Wildlife Research
+Grallina cyanoleuca	Hamirostra melanosternon	Aumann	2001	Wildlife Research
+Gymnorhina tibicen	Hamirostra melanosternon	Aumann	2001	Wildlife Research
+Leggadina forresti	Falco cenchroides	Aumann	2001	Wildlife Research
+Lerista labialis	Falco cenchroides	Aumann	2001	Wildlife Research
+Macropus robustus	Hamirostra melanosternon	Aumann	2001	Wildlife Research
+Macropus robustus	Aquila audax	Aumann	2001	Wildlife Research
+Malurus lamberti	Hamirostra melanosternon	Aumann	2001	Wildlife Research
+Melopsittacus undulatus	Falco cenchroides	Aumann	2001	Wildlife Research
+Merops ornatus	Hamirostra melanosternon	Aumann	2001	Wildlife Research
+Ningaui ridei	Falco berigora	Aumann	2001	Wildlife Research
+Ningaui ridei	Falco cenchroides	Aumann	2001	Wildlife Research
+Nyctophilus geoffroyi	Hamirostra melanosternon	Aumann	2001	Wildlife Research
+Ocyphaps lophotes	Falco berigora	Aumann	2001	Wildlife Research
+Oryctolagus cuniculus	Aquila audax	Aumann	2001	Wildlife Research
+Oryctolagus cuniculus	Hamirostra melanosternon	Aumann	2001	Wildlife Research
+Phaps chalcoptera	Hamirostra melanosternon	Aumann	2001	Wildlife Research
+Pseudomys hermannsburgensis	Falco cenchroides	Aumann	2001	Wildlife Research
+Pseudonaja nuchalis	Hamirostra melanosternon	Aumann	2001	Wildlife Research
+Pseudonaja nuchalis	Hamirostra melanosternon	Aumann	2001	Wildlife Research
+Pygopus nigriceps	Falco berigora	Aumann	2001	Wildlife Research
+Rattus villosissimus	Falco cenchroides	Aumann	2001	Wildlife Research
+Sminthopsis crassicaudata	Hamirostra melanosternon	Aumann	2001	Wildlife Research
+Sminthopsis crassicaudata	Falco cenchroides	Aumann	2001	Wildlife Research
+Sminthopsis crassicaudata	Aquila audax	Aumann	2001	Wildlife Research
+Sminthopsis macroura	Falco cenchroides	Aumann	2001	Wildlife Research
+Sminthopsis macroura	Falco berigora	Aumann	2001	Wildlife Research
+Sus scrofa	Hamirostra melanosternon	Aumann	2016	Corella
+Tachyglossus aculeatus	Hamirostra melanosternon	Aumann	2001	Wildlife Research
+Taeniopygia guttata	Hamirostra melanosternon	Aumann	2001	Wildlife Research
+Turnix velox	Hamirostra melanosternon	Aumann	2001	Wildlife Research
+Varanus acanthurus	Hamirostra melanosternon	Aumann	2001	Wildlife Research
+Varanus acanthurus	Falco berigora	Aumann	2001	Wildlife Research
+Varanus giganteus	Aquila audax	Aumann	2001	Wildlife Research
+Varanus gouldii	Hamirostra melanosternon	Aumann	2001	Wildlife Research
+Varanus tristis	Falco berigora	Aumann	2001	Wildlife Research
+Varanus tristis	Falco cenchroides	Aumann	2001	Wildlife Research
+Vulpes vulpes	Hamirostra melanosternon	Aumann	2001	Wildlife Research
+Anthus novaeseelandiae	Falco cenchroides	Bollen	1991	Australian Bird Watcher
+Nephrurus levis	Varanus gouldii	Bolton and Moseby	2004	Pacific Conservation Biology
+Ctenotus dux	Pseudonaja modesta	Bouskila & Dickman	unpublished data	
+Ctenotus helenae	Pseudonaja modesta	Bouskila & Dickman	unpublished data	
+Diplodactylus laevis	Pseudonaja modesta	Bouskila & Dickman	unpublished data	
+Nephrurus levis	Suta punctata	Bouskila & Dickman	unpublished data	
+Ramphotyphlops endoterus	Suta punctata	Bouskila & Dickman	unpublished data	
+Ctenotus pantherinus	Pseudonaja mengdeni	Bouskila & Dickman	unpublished data	
+Notaden nichollsi	Pseudechis australis	Bouskila & Dickman	unpublished data	
+Pseudomys hermannsburgensis	Pseudonaja mengdeni	Bouskila & Dickman	unpublished data	
+Pseudomys hermannsburgensis	Pseudechis australis	Bouskila & Dickman	unpublished data	
+Sminthopsis hirtipes	Pseudonaja mengdeni	Bouskila & Dickman	unpublished data	
+Turnix velox	Pseudechis australis	Bouskila & Dickman	unpublished data	
+Accipiter fasciatus	Aquila audax	Brooker and Ridpath	1980	Australian Wildlife Research
+Anthus novaeseelandiae	Aquila audax	Brooker and Ridpath	1980	Australian Wildlife Research
+Artamus cinereus	Aquila audax	Brooker and Ridpath	1980	Australian Wildlife Research
+Barnardius zonarius	Aquila audax	Brooker and Ridpath	1980	Australian Wildlife Research
+Cacatua roseicapilla	Aquila audax	Brooker and Ridpath	1980	Australian Wildlife Research
+Canis lupus	Aquila audax	Brooker and Ridpath	1980	Australian Wildlife Research
+Chenonetta jubata	Aquila audax	Brooker and Ridpath	1980	Australian Wildlife Research
+Colluricincla harmonica	Aquila audax	Brooker and Ridpath	1980	Australian Wildlife Research
+Corvus bennetti	Aquila audax	Brooker and Ridpath	1980	Australian Wildlife Research
+Corvus coronoides	Aquila audax	Brooker and Ridpath	1980	Australian Wildlife Research
+Demansia psammophis	Aquila audax	Brooker and Ridpath	1980	Australian Wildlife Research
+Dromaius novaehollandiae	Aquila audax	Brooker and Ridpath	1980	Australian Wildlife Research
+Falco berigora	Aquila audax	Brooker and Ridpath	1980	Australian Wildlife Research
+Falco cenchroides	Aquila audax	Brooker and Ridpath	1980	Australian Wildlife Research
+Geopelia cuneata	Aquila audax	Brooker and Ridpath	1980	Australian Wildlife Research
+Grallina cyanoleuca	Aquila audax	Brooker and Ridpath	1980	Australian Wildlife Research
+Gymnorhina tibicen	Aquila audax	Brooker and Ridpath	1980	Australian Wildlife Research
+Moloch horridus	Aquila audax	Brooker and Ridpath	1980	Australian Wildlife Research
+Ninox novaeseelandiae	Aquila audax	Brooker and Ridpath	1980	Australian Wildlife Research
+Phaps chalcoptera	Aquila audax	Brooker and Ridpath	1980	Australian Wildlife Research
+Podargus strigoides	Aquila audax	Brooker and Ridpath	1980	Australian Wildlife Research
+Sus scrofa	Aquila audax	Brooker and Ridpath	1980	Australian Wildlife Research
+Tadorna tadornoides	Aquila audax	Brooker and Ridpath	1980	Australian Wildlife Research
+Turnix velox	Aquila audax	Brooker and Ridpath	1980	Australian Wildlife Research
+Tyto alba	Aquila audax	Brooker and Ridpath	1980	Australian Wildlife Research
+Vanellus tricolor	Aquila audax	Brooker and Ridpath	1980	Australian Wildlife Research
+Vulpes vulpes	Aquila audax	Brooker and Ridpath	1980	Australian Wildlife Research
+Mus musculus	Aspidites ramsayi	Bruton	2013	Memoirs of the Queensland Museum-Nature
+Oryctolagus cuniculus	Aspidites ramsayi	Bruton	2013	Memoirs of the Queensland Museum-Nature
+Varanus gouldii	Aspidites ramsayi	Bruton	2013	Memoirs of the Queensland Museum-Nature
+Ctenotus brooksi	Ctenotus helenae	Bytheway & Dickman	unpublished data	
+Heteronotia binoei	Ctenotus pantherinus	Bytheway & Dickman	unpublished data	
+Lerista labialis	Ctenotus pantherinus	Bytheway & Dickman	unpublished data	
+Lerista labialis	Ctenotus helenae	Bytheway & Dickman	unpublished data	
+Lerista xanthura	Eremiascincus phantasmus	Bytheway & Dickman	unpublished data	
+Menetia greyii	Ctenotus helenae	Bytheway & Dickman	unpublished data	
+Menetia greyii	Ctenotus lateralis	Bytheway & Dickman	unpublished data	
+Morethia ruficauda	Ctenotus regius	Bytheway & Dickman	unpublished data	
+Pseudomys hermannsburgensis	Ctenotus helenae	Bytheway & Dickman	unpublished data	
+Pseudomys hermannsburgensis	Ctenotus pantherinus	Bytheway & Dickman	unpublished data	
+Ctenotus schomburgkii	Liopholis inornata	Bytheway & Dickman n = 12	unpublished data	
+Menetia greyii	Ctenotus leonhardii	Bytheway & Dickman n = 14	unpublished data	
+Pseudomys hermannsburgensis	Nephrurus levis	Bytheway & Dickman n = 67	unpublished data	
+Mus musculus	Dasycercus blythi	Chen, Dickman, and Thompson	1998	Wildlife Research
+Ningaui ridei	Dasycercus blythi	Chen, Dickman, and Thompson	1998	Wildlife Research
+Notomys alexis	Dasycercus blythi	Chen, Dickman, and Thompson	1998	Wildlife Research
+Rattus villosissimus	Dasycercus blythi	Chen, Dickman, and Thompson	1998	Wildlife Research
+Aquila audax	Aquila audax	Cherriman	2007	Thesis
+Cygnus atratus	Aquila audax	Cherriman	2007	Thesis
+Varanus tristis	Aquila audax	Cherriman	2007	Thesis
+Cacatua sanguinea	Falco berigora	Corbett et al	2014	Corella
+Oryctolagus cuniculus	Varanus gouldii	Cross et al	2020	Journal of Zoology
+Varanus acanthurus	Varanus gouldii	Cross et al	2020	Journal of Zoology
+Canis lupus	Vulpes vulpes	Cupples, Crowther, Story, and Letnic	2011	Journal of Mammology
+Dasycercus blythi	Vulpes vulpes	Cupples, Crowther, Story, and Letnic	2011	Journal of Mammology
+Macropus rufus	Vulpes vulpes	Cupples, Crowther, Story, and Letnic	2011	Journal of Mammology
+Moloch horridus	Vulpes vulpes	Cupples, Crowther, Story, and Letnic	2011	Journal of Mammology
+Ningaui ridei	Vulpes vulpes	Cupples, Crowther, Story, and Letnic	2011	Journal of Mammology
+Ningaui ridei	Canis lupus	Cupples, Crowther, Story, and Letnic	2011	Journal of Mammology
+Notomys cervinus	Canis lupus	Cupples, Crowther, Story, and Letnic	2011	Journal of Mammology
+Oryctolagus cuniculus	Canis lupus	Cupples, Crowther, Story, and Letnic	2011	Journal of Mammology
+Sminthopsis crassicaudata	Canis lupus	Cupples, Crowther, Story, and Letnic	2011	Journal of Mammology
+Varanus gouldii	Vulpes vulpes	Cupples, Crowther, Story, and Letnic	2011	Journal of Mammology
+Liopholis inornata	Pseudonaja modesta	De Angelis	2010	Herpetofauna
+Threskiornis spinicollis	Aquila audax	Debus et al	2007	Australian Field Ornithology
+Oryctolagus cuniculus	Antaresia stimsoni	Dickman - opportunistic observation of one python	unpublished data	
+Lerista labialis	Brachyurophis fasciolatus	Dickman - opportunistic observation of one snake	unpublished data	
+Ctenophorus nuchalis	Aspidites ramsayi	Dickman - opportunistic observation of two python	unpublished data	
+Sminthopsis youngsoni	Aspidites ramsayi	Dickman - opportunistic observation of two python	unpublished data	
+Tiliqua multifasciata	Aspidites ramsayi	Dickman - opportunistic observation of two python	unpublished data	
+Ctenophorus isolepis	Demansia psammophis	Dickman - opportunistic observation of two snakes	unpublished data	
+Ctenotus dux	Demansia psammophis	Dickman - opportunistic observation of two snakes	unpublished data	
+Ctenotus leae	Demansia psammophis	Dickman - opportunistic observation of two snakes	unpublished data	
+Epthianura tricolor	Falco hypoleucos	Dickman opportunistic, 27 birds	unpublished data	
+Geopelia cuneata	Falco hypoleucos	Dickman opportunistic, 27 birds	unpublished data	
+Melopsittacus undulatus	Falco hypoleucos	Dickman opportunistic, 27 birds	unpublished data	
+Taeniopygia guttata	Falco hypoleucos	Dickman opportunistic, 27 birds	unpublished data	
+Aegotheles cristatus	Felis catus	Doherty et al	2015	Journal of Biogeography
+Antaresia stimsoni	Felis catus	Doherty et al	2015	Journal of Biogeography
+Aprosmictus erythropterus	Canis lupus	Doherty et al	2015	Journal of Biogeography
+Aquila audax	Felis catus	Doherty et al	2015	Journal of Biogeography
+Ardeotis australis	Canis lupus	Doherty et al	2015	Journal of Biogeography
+Artamus cinereus	Canis lupus	Doherty et al	2015	Journal of Biogeography
+Barnardius zonarius	Felis catus	Doherty et al	2015	Journal of Biogeography
+Barnardius zonarius	Canis lupus	Doherty et al	2015	Journal of Biogeography
+Cacatua roseicapilla	Canis lupus	Doherty et al	2015	Journal of Biogeography
+Cacatua sanguinea	Felis catus	Doherty et al	2015	Journal of Biogeography
+Cacatua sanguinea	Canis lupus	Doherty et al	2015	Journal of Biogeography
+Camelus dromedarius	Felis catus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Felis catus	Doherty et al	2015	Journal of Biogeography
+Canis lupus	Canis lupus	Doherty et al	2015	Journal of Biogeography
+Chalinolobus gouldii	Felis catus	Doherty et al	2015	Journal of Biogeography
+Charadrius ruficapillus	Felis catus	Doherty et al	2015	Journal of Biogeography
+Chenonetta jubata	Felis catus	Doherty et al	2015	Journal of Biogeography
+Cinclosoma castanotus	Felis catus	Doherty et al	2015	Journal of Biogeography
+Corvus bennetti	Canis lupus	Doherty et al	2015	Journal of Biogeography
+Coturnix pectoralis	Felis catus	Doherty et al	2015	Journal of Biogeography
+Cracticus nigrogularis	Felis catus	Doherty et al	2015	Journal of Biogeography
+Cracticus nigrogularis	Canis lupus	Doherty et al	2015	Journal of Biogeography
+Ctenophorus isolepis	Canis lupus	Doherty et al	2015	Journal of Biogeography
+Ctenophorus nuchalis	Canis lupus	Doherty et al	2015	Journal of Biogeography
+Ctenotus helenae	Felis catus	Doherty et al	2015	Journal of Biogeography
+Ctenotus lateralis	Felis catus	Doherty et al	2015	Journal of Biogeography
+Ctenotus leonhardii	Canis lupus	Doherty et al	2015	Journal of Biogeography
+Ctenotus leonhardii	Felis catus	Doherty et al	2015	Journal of Biogeography
+Ctenotus pantherinus	Felis catus	Doherty et al	2015	Journal of Biogeography
+Cygnus atratus	Canis lupus	Doherty et al	2015	Journal of Biogeography
+Delma nasuta	Felis catus	Doherty et al	2015	Journal of Biogeography
+Delma tincta	Felis catus	Doherty et al	2015	Journal of Biogeography
+Demansia psammophis	Felis catus	Doherty et al	2015	Journal of Biogeography
+Dromaius novaehollandiae	Felis catus	Doherty et al	2015	Journal of Biogeography
+Eremiascincus fasciolatus	Felis catus	Doherty et al	2015	Journal of Biogeography
+Eurostopodus argus	Canis lupus	Doherty et al	2015	Journal of Biogeography
+Falco cenchroides	Canis lupus	Doherty et al	2015	Journal of Biogeography
+Felis catus	Felis catus	Doherty et al	2015	Journal of Biogeography
+Fulica atra	Canis lupus	Doherty et al	2015	Journal of Biogeography
+Geopelia cuneata	Canis lupus	Doherty et al	2015	Journal of Biogeography
+Geopelia cuneata	Felis catus	Doherty et al	2015	Journal of Biogeography
+Geophaps plumifera	Canis lupus	Doherty et al	2015	Journal of Biogeography
+Gowidon longirostris	Canis lupus	Doherty et al	2015	Journal of Biogeography
+Grallina cyanoleuca	Felis catus	Doherty et al	2015	Journal of Biogeography
+Grallina cyanoleuca	Canis lupus	Doherty et al	2015	Journal of Biogeography
+Gymnorhina tibicen	Canis lupus	Doherty et al	2015	Journal of Biogeography
+Gymnorhina tibicen	Felis catus	Doherty et al	2015	Journal of Biogeography
+Lialis burtonis	Felis catus	Doherty et al	2015	Journal of Biogeography
+Lichenostomus penicillatus	Felis catus	Doherty et al	2015	Journal of Biogeography
+Lichenostomus virescens	Felis catus	Doherty et al	2015	Journal of Biogeography
+Limnodynastes spenceri	Felis catus	Doherty et al	2015	Journal of Biogeography
+Limnodynastes tasmaniensis	Felis catus	Doherty et al	2015	Journal of Biogeography
+Liopholis inornata	Felis catus	Doherty et al	2015	Journal of Biogeography
+Litoria rubella	Felis catus	Doherty et al	2015	Journal of Biogeography
+Lucasium damaeum	Felis catus	Doherty et al	2015	Journal of Biogeography
+Macropus rufus	Felis catus	Doherty et al	2015	Journal of Biogeography
+Malurus lamberti	Felis catus	Doherty et al	2015	Journal of Biogeography
+Malurus leucopterus	Felis catus	Doherty et al	2015	Journal of Biogeography
+Malurus leucopterus	Canis lupus	Doherty et al	2015	Journal of Biogeography
+Melopsittacus undulatus	Canis lupus	Doherty et al	2015	Journal of Biogeography
+Merops ornatus	Canis lupus	Doherty et al	2015	Journal of Biogeography
+Milvus migrans	Felis catus	Doherty et al	2015	Journal of Biogeography
+Moloch horridus	Felis catus	Doherty et al	2015	Journal of Biogeography
+Nycticorax caledonicus	Felis catus	Doherty et al	2015	Journal of Biogeography
+Nyctophilus geoffroyi	Canis lupus	Doherty et al	2015	Journal of Biogeography
+Nyctophilus geoffroyi	Felis catus	Doherty et al	2015	Journal of Biogeography
+Nymphicus hollandicus	Felis catus	Doherty et al	2015	Journal of Biogeography
+Nymphicus hollandicus	Canis lupus	Doherty et al	2015	Journal of Biogeography
+Ocyphaps lophotes	Canis lupus	Doherty et al	2015	Journal of Biogeography
+Oreoica gutturalis	Felis catus	Doherty et al	2015	Journal of Biogeography
+Pachycephala rufiventris	Felis catus	Doherty et al	2015	Journal of Biogeography
+Petroica goodenovii	Felis catus	Doherty et al	2015	Journal of Biogeography
+Phaps chalcoptera	Felis catus	Doherty et al	2015	Journal of Biogeography
+Planigale tenuirostris	Felis catus	Doherty et al	2015	Journal of Biogeography
+Podargus strigoides	Felis catus	Doherty et al	2015	Journal of Biogeography
+Pseudechis australis	Canis lupus	Doherty et al	2015	Journal of Biogeography
+Pseudechis australis	Felis catus	Doherty et al	2015	Journal of Biogeography
+Pseudonaja modesta	Felis catus	Doherty et al	2015	Journal of Biogeography
+Pteropus scapulatus	Canis lupus	Doherty et al	2015	Journal of Biogeography
+Rhipidura leucophrys	Felis catus	Doherty et al	2015	Journal of Biogeography
+Smicrornis brevirostris	Felis catus	Doherty et al	2015	Journal of Biogeography
+Sminthopsis youngsoni	Felis catus	Doherty et al	2015	Journal of Biogeography
+Strophurus ciliaris	Canis lupus	Doherty et al	2015	Journal of Biogeography
+Strophurus ciliaris	Felis catus	Doherty et al	2015	Journal of Biogeography
+Sus scrofa	Canis lupus	Doherty et al	2015	Journal of Biogeography
+Sus scrofa	Felis catus	Doherty et al	2015	Journal of Biogeography
+Suta punctata	Canis lupus	Doherty et al	2015	Journal of Biogeography
+Suta punctata	Felis catus	Doherty et al	2015	Journal of Biogeography
+Taeniopygia guttata	Canis lupus	Doherty et al	2015	Journal of Biogeography
+Tiliqua multifasciata	Felis catus	Doherty et al	2015	Journal of Biogeography
+Turnix velox	Canis lupus	Doherty et al	2015	Journal of Biogeography
+Tyto alba	Canis lupus	Doherty et al	2015	Journal of Biogeography
+Tyto alba	Felis catus	Doherty et al	2015	Journal of Biogeography
+Varanus acanthurus	Canis lupus	Doherty et al	2015	Journal of Biogeography
+Varanus acanthurus	Felis catus	Doherty et al	2015	Journal of Biogeography
+Varanus brevicauda	Canis lupus	Doherty et al	2015	Journal of Biogeography
+Varanus giganteus	Canis lupus	Doherty et al	2015	Journal of Biogeography
+Varanus giganteus	Felis catus	Doherty et al	2015	Journal of Biogeography
+Varanus tristis	Felis catus	Doherty et al	2015	Journal of Biogeography
+Rhynchoedura ornata	Sminthopsis hirtipes	Fisher & Dickman 1993a,b; Opportunistic n = 22	unpublished	
+Manorina flavigula	Varanus gouldii	Godwin et al	2020	Herpetological Review
+Ctenotus pantherinus	Varanus eremius	Hills & Dickman	unpublished data	
+Ctenotus ariadnae	Varanus eremius	Hills & Dickman	unpublished data	
+Ctenophorus isolepis	Varanus brevicauda	Hills & Dickman	unpublished data	
+Ctenotus brooksi	Varanus brevicauda	Hills & Dickman	unpublished data	
+Ctenotus leae	Varanus eremius	Hills & Dickman	unpublished data	
+Rhynchoedura ornata	Varanus brevicauda	Hills & Dickman	unpublished data	
+Ctenophorus isolepis	Varanus eremius	Hills & Dickman	unpublished data	
+Diplodactylus laevis	Varanus eremius	Hills & Dickman	unpublished data	
+Ningaui ridei	Varanus eremius	Hills & Dickman	unpublished data	
+Oryctolagus cuniculus	Varanus giganteus	Hills & Dickman	unpublished data	
+Notomys alexis	Varanus giganteus	Hills & Dickman	unpublished data	
+Ctenophorus isolepis	Varanus gouldii	Hills & Dickman	unpublished data	
+Ctenophorus nuchalis	Varanus gouldii	Hills & Dickman	unpublished data	
+Ctenotus dux	Varanus gouldii	Hills & Dickman	unpublished data	
+Ctenotus helenae	Varanus gouldii	Hills & Dickman	unpublished data	
+Ctenotus pantherinus	Varanus gouldii	Hills & Dickman	unpublished data	
+Ctenotus regius	Varanus gouldii	Hills & Dickman	unpublished data	
+Liopholis inornata	Varanus gouldii	Hills & Dickman	unpublished data	
+Morethia ruficauda	Varanus gouldii	Hills & Dickman	unpublished data	
+Mus musculus	Varanus gouldii	Hills & Dickman	unpublished data	
+Pseudomys hermannsburgensis	Varanus gouldii	Hills & Dickman	unpublished data	
+Sminthopsis youngsoni	Varanus gouldii	Hills & Dickman	unpublished data	
+Rhynchoedura ornata	Varanus gouldii	Hills & Dickman	unpublished data	
+Tympanocryptis tetraporophora	Varanus giganteus	Hills & Dickman	unpublished data	
+Ctenotus lateralis	Varanus gilleni	Hills & Dickman	unpublished data	
+Ctenotus regius	Varanus gilleni	Hills & Dickman	unpublished data	
+Gowidon longirostris	Varanus gilleni	Hills & Dickman	unpublished data	
+Strophurus ciliaris	Varanus gilleni	Hills & Dickman	unpublished data	
+Varanus giganteus	Varanus giganteus	James, Losos, King	1992	Journal of Herpetology
+Anas gracilis	Falco peregrinus	Jean-Marc Weber and Chris Dickman	unpublished data	
+Anas gracilis	Haliastur sphenurus	Jean-Marc Weber and Chris Dickman	unpublished data	
+Artamus cinereus	Falco longipennis	Jean-Marc Weber and Chris Dickman	unpublished data	
+Artamus cinereus	Accipiter cirrocephalus	Jean-Marc Weber and Chris Dickman	unpublished data	
+Cacatua roseicapilla	Falco subniger	Jean-Marc Weber and Chris Dickman	unpublished data	
+Cincloramphus cruralis	Hamirostra melanosternon	Jean-Marc Weber and Chris Dickman	unpublished data	
+Corvus coronoides	Hamirostra melanosternon	Jean-Marc Weber and Chris Dickman	unpublished data	
+Ctenophorus isolepis	Haliastur sphenurus	Jean-Marc Weber and Chris Dickman	unpublished data	
+Ctenophorus isolepis	Falco berigora	Jean-Marc Weber and Chris Dickman	unpublished data	
+Ctenophorus isolepis	Hamirostra melanosternon	Jean-Marc Weber and Chris Dickman	unpublished data	
+Ctenophorus isolepis	Accipiter fasciatus	Jean-Marc Weber and Chris Dickman	unpublished data	
+Ctenophorus isolepis	Falco cenchroides	Jean-Marc Weber and Chris Dickman	unpublished data	
+Ctenophorus nuchalis	Lophoictinia isura	Jean-Marc Weber and Chris Dickman	unpublished data	
+Ctenophorus nuchalis	Hieraaetus morphnoides	Jean-Marc Weber and Chris Dickman	unpublished data	
+Ctenophorus nuchalis	Falco cenchroides	Jean-Marc Weber and Chris Dickman	unpublished data	
+Ctenophorus nuchalis	Accipiter fasciatus	Jean-Marc Weber and Chris Dickman	unpublished data	
+Ctenophorus nuchalis	Milvus migrans	Jean-Marc Weber and Chris Dickman	unpublished data	
+Ctenophorus nuchalis	Falco berigora	Jean-Marc Weber and Chris Dickman	unpublished data	
+Ctenophorus nuchalis	Aquila audax	Jean-Marc Weber and Chris Dickman	unpublished data	
+Ctenophorus nuchalis	Circus assimilis	Jean-Marc Weber and Chris Dickman	unpublished data	
+Ctenophorus nuchalis	Hamirostra melanosternon	Jean-Marc Weber and Chris Dickman	unpublished data	
+Ctenotus ariadnae	Falco cenchroides	Jean-Marc Weber and Chris Dickman	unpublished data	
+Ctenotus brooksi	Falco cenchroides	Jean-Marc Weber and Chris Dickman	unpublished data	
+Ctenotus calurus	Falco cenchroides	Jean-Marc Weber and Chris Dickman	unpublished data	
+Ctenotus dux	Falco berigora	Jean-Marc Weber and Chris Dickman	unpublished data	
+Ctenotus dux	Elanus axillaris	Jean-Marc Weber and Chris Dickman	unpublished data	
+Ctenotus dux	Falco cenchroides	Jean-Marc Weber and Chris Dickman	unpublished data	
+Ctenotus helenae	Falco berigora	Jean-Marc Weber and Chris Dickman	unpublished data	
+Ctenotus helenae	Hamirostra melanosternon	Jean-Marc Weber and Chris Dickman	unpublished data	
+Ctenotus lateralis	Falco cenchroides	Jean-Marc Weber and Chris Dickman	unpublished data	
+Ctenotus leae	Falco cenchroides	Jean-Marc Weber and Chris Dickman	unpublished data	
+Ctenotus leonhardii	Falco cenchroides	Jean-Marc Weber and Chris Dickman	unpublished data	
+Ctenotus pantherinus	Elanus axillaris	Jean-Marc Weber and Chris Dickman	unpublished data	
+Ctenotus pantherinus	Milvus migrans	Jean-Marc Weber and Chris Dickman	unpublished data	
+Ctenotus pantherinus	Accipiter fasciatus	Jean-Marc Weber and Chris Dickman	unpublished data	
+Ctenotus pantherinus	Falco cenchroides	Jean-Marc Weber and Chris Dickman	unpublished data	
+Ctenotus pantherinus	Falco berigora	Jean-Marc Weber and Chris Dickman	unpublished data	
+Ctenotus piankai	Falco cenchroides	Jean-Marc Weber and Chris Dickman	unpublished data	
+Ctenotus regius	Falco cenchroides	Jean-Marc Weber and Chris Dickman	unpublished data	
+Dasycercus blythi	Hamirostra melanosternon	Jean-Marc Weber and Chris Dickman	unpublished data	
+Dasycercus blythi	Falco berigora	Jean-Marc Weber and Chris Dickman	unpublished data	
+Demansia psammophis	Haliastur sphenurus	Jean-Marc Weber and Chris Dickman	unpublished data	
+Epthianura tricolor	Hieraaetus morphnoides	Jean-Marc Weber and Chris Dickman	unpublished data	
+Epthianura tricolor	Falco berigora	Jean-Marc Weber and Chris Dickman	unpublished data	
+Epthianura tricolor	Falco longipennis	Jean-Marc Weber and Chris Dickman	unpublished data	
+Epthianura tricolor	Lophoictinia isura	Jean-Marc Weber and Chris Dickman	unpublished data	
+Epthianura tricolor	Accipiter cirrocephalus	Jean-Marc Weber and Chris Dickman	unpublished data	
+Eremiascincus fasciolatus	Falco cenchroides	Jean-Marc Weber and Chris Dickman	unpublished data	
+Felis catus	Hamirostra melanosternon	Jean-Marc Weber and Chris Dickman	unpublished data	
+Felis catus	Aquila audax	Jean-Marc Weber and Chris Dickman	unpublished data	
+Gallinula ventralis	Falco peregrinus	Jean-Marc Weber and Chris Dickman	unpublished data	
+Geopelia cuneata	Accipiter fasciatus	Jean-Marc Weber and Chris Dickman	unpublished data	
+Geopelia cuneata	Falco longipennis	Jean-Marc Weber and Chris Dickman	unpublished data	
+Geopelia cuneata	Hamirostra melanosternon	Jean-Marc Weber and Chris Dickman	unpublished data	
+Geopelia cuneata	Accipiter cirrocephalus	Jean-Marc Weber and Chris Dickman	unpublished data	
+Geopelia cuneata	Falco berigora	Jean-Marc Weber and Chris Dickman	unpublished data	
+Geopelia cuneata	Milvus migrans	Jean-Marc Weber and Chris Dickman	unpublished data	
+Gowidon longirostris	Accipiter fasciatus	Jean-Marc Weber and Chris Dickman	unpublished data	
+Gowidon longirostris	Milvus migrans	Jean-Marc Weber and Chris Dickman	unpublished data	
+Lialis burtonis	Falco berigora	Jean-Marc Weber and Chris Dickman	unpublished data	
+Lichenostomus virescens	Falco subniger	Jean-Marc Weber and Chris Dickman	unpublished data	
+Lichenostomus virescens	Accipiter cirrocephalus	Jean-Marc Weber and Chris Dickman	unpublished data	
+Liopholis inornata	Falco cenchroides	Jean-Marc Weber and Chris Dickman	unpublished data	
+Macropus rufus	Hamirostra melanosternon	Jean-Marc Weber and Chris Dickman	unpublished data	
+Macropus rufus	Haliastur sphenurus	Jean-Marc Weber and Chris Dickman	unpublished data	
+Macropus rufus	Falco berigora	Jean-Marc Weber and Chris Dickman	unpublished data	
+Macropus rufus	Aquila audax	Jean-Marc Weber and Chris Dickman	unpublished data	
+Macropus rufus	Milvus migrans	Jean-Marc Weber and Chris Dickman	unpublished data	
+Malurus leucopterus	Accipiter cirrocephalus	Jean-Marc Weber and Chris Dickman	unpublished data	
+Melopsittacus undulatus	Falco peregrinus	Jean-Marc Weber and Chris Dickman	unpublished data	
+Melopsittacus undulatus	Hamirostra melanosternon	Jean-Marc Weber and Chris Dickman	unpublished data	
+Melopsittacus undulatus	Falco berigora	Jean-Marc Weber and Chris Dickman	unpublished data	
+Melopsittacus undulatus	Circus approximans	Jean-Marc Weber and Chris Dickman	unpublished data	
+Melopsittacus undulatus	Falco subniger	Jean-Marc Weber and Chris Dickman	unpublished data	
+Melopsittacus undulatus	Accipiter cirrocephalus	Jean-Marc Weber and Chris Dickman	unpublished data	
+Melopsittacus undulatus	Falco longipennis	Jean-Marc Weber and Chris Dickman	unpublished data	
+Melopsittacus undulatus	Elanus axillaris	Jean-Marc Weber and Chris Dickman	unpublished data	
+Melopsittacus undulatus	Hieraaetus morphnoides	Jean-Marc Weber and Chris Dickman	unpublished data	
+Melopsittacus undulatus	Circus assimilis	Jean-Marc Weber and Chris Dickman	unpublished data	
+Melopsittacus undulatus	Haliastur sphenurus	Jean-Marc Weber and Chris Dickman	unpublished data	
+Merops ornatus	Haliastur sphenurus	Jean-Marc Weber and Chris Dickman	unpublished data	
+Merops ornatus	Hieraaetus morphnoides	Jean-Marc Weber and Chris Dickman	unpublished data	
+Merops ornatus	Accipiter fasciatus	Jean-Marc Weber and Chris Dickman	unpublished data	
+Moloch horridus	Falco berigora	Jean-Marc Weber and Chris Dickman	unpublished data	
+Moloch horridus	Hamirostra melanosternon	Jean-Marc Weber and Chris Dickman	unpublished data	
+Moloch horridus	Hieraaetus morphnoides	Jean-Marc Weber and Chris Dickman	unpublished data	
+Mus musculus	Falco berigora	Jean-Marc Weber and Chris Dickman	unpublished data	
+Mus musculus	Elanus axillaris	Jean-Marc Weber and Chris Dickman	unpublished data	
+Mus musculus	Falco cenchroides	Jean-Marc Weber and Chris Dickman	unpublished data	
+Notaden nichollsi	Milvus migrans	Jean-Marc Weber and Chris Dickman	unpublished data	
+Notomys alexis	Accipiter fasciatus	Jean-Marc Weber and Chris Dickman	unpublished data	
+Notoscincus watersi	Falco cenchroides	Jean-Marc Weber and Chris Dickman	unpublished data	
+Nycticorax caledonicus	Accipiter fasciatus	Jean-Marc Weber and Chris Dickman	unpublished data	
+Nyctophilus geoffroyi	Accipiter fasciatus	Jean-Marc Weber and Chris Dickman	unpublished data	
+Nyctophilus geoffroyi	Falco longipennis	Jean-Marc Weber and Chris Dickman	unpublished data	
+Nymphicus hollandicus	Falco longipennis	Jean-Marc Weber and Chris Dickman	unpublished data	
+Nymphicus hollandicus	Hieraaetus morphnoides	Jean-Marc Weber and Chris Dickman	unpublished data	
+Nymphicus hollandicus	Circus approximans	Jean-Marc Weber and Chris Dickman	unpublished data	
+Ocyphaps lophotes	Falco peregrinus	Jean-Marc Weber and Chris Dickman	unpublished data	
+Ocyphaps lophotes	Circus assimilis	Jean-Marc Weber and Chris Dickman	unpublished data	
+Ocyphaps lophotes	Haliastur sphenurus	Jean-Marc Weber and Chris Dickman	unpublished data	
+Ocyphaps lophotes	Falco subniger	Jean-Marc Weber and Chris Dickman	unpublished data	
+Ocyphaps lophotes	Hamirostra melanosternon	Jean-Marc Weber and Chris Dickman	unpublished data	
+Ocyphaps lophotes	Aquila audax	Jean-Marc Weber and Chris Dickman	unpublished data	
+Ocyphaps lophotes	Hieraaetus morphnoides	Jean-Marc Weber and Chris Dickman	unpublished data	
+Oreoica gutturalis	Hamirostra melanosternon	Jean-Marc Weber and Chris Dickman	unpublished data	
+Oryctolagus cuniculus	Falco berigora	Jean-Marc Weber and Chris Dickman	unpublished data	
+Phaps chalcoptera	Haliastur sphenurus	Jean-Marc Weber and Chris Dickman	unpublished data	
+Phaps chalcoptera	Milvus migrans	Jean-Marc Weber and Chris Dickman	unpublished data	
+Podargus strigoides	Hamirostra melanosternon	Jean-Marc Weber and Chris Dickman	unpublished data	
+Pogona vitticeps	Falco berigora	Jean-Marc Weber and Chris Dickman	unpublished data	
+Pogona vitticeps	Falco subniger	Jean-Marc Weber and Chris Dickman	unpublished data	
+Pogona vitticeps	Haliastur sphenurus	Jean-Marc Weber and Chris Dickman	unpublished data	
+Pogona vitticeps	Hieraaetus morphnoides	Jean-Marc Weber and Chris Dickman	unpublished data	
+Porphyrio porphyrio	Haliastur sphenurus	Jean-Marc Weber and Chris Dickman	unpublished data	
+Porphyrio porphyrio	Circus approximans	Jean-Marc Weber and Chris Dickman	unpublished data	
+Porphyrio porphyrio	Falco peregrinus	Jean-Marc Weber and Chris Dickman	unpublished data	
+Pseudomys desertor	Elanus axillaris	Jean-Marc Weber and Chris Dickman	unpublished data	
+Pseudomys hermannsburgensis	Elanus axillaris	Jean-Marc Weber and Chris Dickman	unpublished data	
+Pseudomys hermannsburgensis	Hamirostra melanosternon	Jean-Marc Weber and Chris Dickman	unpublished data	
+Pseudomys hermannsburgensis	Falco berigora	Jean-Marc Weber and Chris Dickman	unpublished data	
+Pseudomys hermannsburgensis	Accipiter fasciatus	Jean-Marc Weber and Chris Dickman	unpublished data	
+Pseudomys hermannsburgensis	Circus assimilis	Jean-Marc Weber and Chris Dickman	unpublished data	
+Pseudonaja mengdeni	Falco berigora	Jean-Marc Weber and Chris Dickman	unpublished data	
+Pseudonaja mengdeni	Hieraaetus morphnoides	Jean-Marc Weber and Chris Dickman	unpublished data	
+Pseudonaja mengdeni	Hamirostra melanosternon	Jean-Marc Weber and Chris Dickman	unpublished data	
+Rattus villosissimus	Falco berigora	Jean-Marc Weber and Chris Dickman	unpublished data	
+Rattus villosissimus	Aquila audax	Jean-Marc Weber and Chris Dickman	unpublished data	
+Rattus villosissimus	Hamirostra melanosternon	Jean-Marc Weber and Chris Dickman	unpublished data	
+Rhipidura leucophrys	Accipiter cirrocephalus	Jean-Marc Weber and Chris Dickman	unpublished data	
+Sminthopsis youngsoni	Elanus axillaris	Jean-Marc Weber and Chris Dickman	unpublished data	
+Sminthopsis youngsoni	Falco berigora	Jean-Marc Weber and Chris Dickman	unpublished data	
+Stiltia isabella	Falco peregrinus	Jean-Marc Weber and Chris Dickman	unpublished data	
+Stiltia isabella	Circus approximans	Jean-Marc Weber and Chris Dickman	unpublished data	
+Taeniopygia guttata	Milvus migrans	Jean-Marc Weber and Chris Dickman	unpublished data	
+Taeniopygia guttata	Falco longipennis	Jean-Marc Weber and Chris Dickman	unpublished data	
+Taeniopygia guttata	Accipiter fasciatus	Jean-Marc Weber and Chris Dickman	unpublished data	
+Taeniopygia guttata	Lophoictinia isura	Jean-Marc Weber and Chris Dickman	unpublished data	
+Taeniopygia guttata	Falco berigora	Jean-Marc Weber and Chris Dickman	unpublished data	
+Taeniopygia guttata	Accipiter cirrocephalus	Jean-Marc Weber and Chris Dickman	unpublished data	
+Tiliqua multifasciata	Aquila audax	Jean-Marc Weber and Chris Dickman	unpublished data	
+Tiliqua multifasciata	Hamirostra melanosternon	Jean-Marc Weber and Chris Dickman	unpublished data	
+Turnix velox	Milvus migrans	Jean-Marc Weber and Chris Dickman	unpublished data	
+Turnix velox	Accipiter cirrocephalus	Jean-Marc Weber and Chris Dickman	unpublished data	
+Turnix velox	Accipiter fasciatus	Jean-Marc Weber and Chris Dickman	unpublished data	
+Turnix velox	Falco berigora	Jean-Marc Weber and Chris Dickman	unpublished data	
+Varanus brevicauda	Haliastur sphenurus	Jean-Marc Weber and Chris Dickman	unpublished data	
+Varanus eremius	Falco berigora	Jean-Marc Weber and Chris Dickman	unpublished data	
+Varanus gilleni	Milvus migrans	Jean-Marc Weber and Chris Dickman	unpublished data	
+Varanus gouldii	Falco berigora	Jean-Marc Weber and Chris Dickman	unpublished data	
+Varanus gouldii	Hieraaetus morphnoides	Jean-Marc Weber and Chris Dickman	unpublished data	
+Varanus gouldii	Aquila audax	Jean-Marc Weber and Chris Dickman	unpublished data	
+Varanus gouldii	Accipiter fasciatus	Jean-Marc Weber and Chris Dickman	unpublished data	
+Macropus robustus	Varanus giganteus	King et al	1989	Aust. Wildl. Res.
+Ocyphaps lophotes	Falco cenchroides	Leach	2015	Australian Field Ornithology
+Gowidon longirostris	Varanus giganteus	Losos and Greene	1988	Biological Journal of the Linean Society
+Varanus acanthurus	Varanus giganteus	MacDonald	2007	Biawak
+Varanus tristis	Varanus giganteus	MacDonald	2007	Biawak
+Ctenophorus nuchalis	Pogona vitticeps	MacMillen et al	1989	Journal of Arid Environments
+Leggadina forresti	Ninox novaeseelandiae	McDonald and Pavey	2014	Australian Zoologist
+Mus musculus	Ninox novaeseelandiae	McDonald and Pavey	2014	Australian Zoologist
+Notomys alexis	Ninox novaeseelandiae	McDonald and Pavey	2014	Australian Zoologist
+Sminthopsis crassicaudata	Ninox novaeseelandiae	McDonald and Pavey	2014	Australian Zoologist
+Mus musculus	Felis catus	McDonald et al	2018	Journal of Mammalogy
+Ningaui ridei	Felis catus	McDonald et al	2018	Journal of Mammalogy
+Pseudantechinus macdonnellensis	Felis catus	McDonald et al	2018	Journal of Mammalogy
+Tachyglossus aculeatus	Felis catus	McDonald et al	2018	Journal of Mammalogy
+Diplodactylus conspicillatus	Antaresia stimsoni	McDonald, Luck, Wassens, and Pavey 	2011	Australian Journal of Zoology
+Limnodynastes spenceri	Antaresia stimsoni	McDonald, Luck, Wassens, and Pavey 	2011	Australian Journal of Zoology
+Mus musculus	Antaresia stimsoni	McDonald, Luck, Wassens, and Pavey 	2011	Australian Journal of Zoology
+Rhynchoedura ornata	Antaresia stimsoni	McDonald, Luck, Wassens, and Pavey 	2011	Australian Journal of Zoology
+Taeniopygia guttata	Pogona vitticeps	Chris Dickman, opportunistic observation	unpublished data	
+Leggadina forresti	Varanus acanthurus	Chris Dickman, opportunistic observation	unpublished data	
+Ctenophorus isolepis	Lialis burtonis	Chris Dickman, opportunistic observation	unpublished data	
+Ctenotus ariadnae	Lialis burtonis	Chris Dickman, opportunistic observation	unpublished data	
+Ctenotus calurus	Lialis burtonis	Chris Dickman, opportunistic observation	unpublished data	
+Ctenotus dux	Lialis burtonis	Chris Dickman, opportunistic observation	unpublished data	
+Ctenotus pantherinus	Lialis burtonis	Chris Dickman, opportunistic observation	unpublished data	
+Strophurus elderi	Lialis burtonis	Chris Dickman, opportunistic observation	unpublished data	
+Mus musculus	Ardeotis australis	Chris Dickman, opportunistic observation	unpublished data	
+Ctenophorus isolepis	Corvus coronoides	Chris Dickman, opportunistic observation	unpublished data	
+Ctenotus pantherinus	Corvus coronoides	Chris Dickman, opportunistic observation	unpublished data	
+Ctenotus pantherinus	Gymnorhina tibicen	Chris Dickman, opportunistic observation	unpublished data	
+Ctenotus regius	Gymnorhina tibicen	Chris Dickman, opportunistic observation	unpublished data	
+Epthianura tricolor	Corvus coronoides	Chris Dickman, opportunistic observation	unpublished data	
+Dasycercus cristicauda	Vulpes vulpes	Paltridge	2002	Wildlife Research
+Melopsittacus undulatus	Vulpes vulpes	Paltridge	2002	Wildlife Research
+Demansia psammophis	Lialis burtonis	Patchell and Shine	1986	Copeia
+Gehyra variegata	Lialis burtonis	Patchell and Shine	1986	Copeia
+Heteronotia binoei	Lialis burtonis	Patchell and Shine	1986	Copeia
+Antechinomys laniger	Elanus scriptus	Pavey, Gorman, and Heywood	2008	Journal of Arid Environments
+Leggadina forresti	Tyto alba	Pavey, Gorman, and Heywood	2008	Journal of Arid Environments
+Leggadina forresti	Elanus scriptus	Pavey, Gorman, and Heywood	2008	Journal of Arid Environments
+Mus musculus	Elanus scriptus	Pavey, Gorman, and Heywood	2008	Journal of Arid Environments
+Mus musculus	Tyto alba	Pavey, Gorman, and Heywood	2008	Journal of Arid Environments
+Notomys alexis	Tyto alba	Pavey, Gorman, and Heywood	2008	Journal of Arid Environments
+Notomys alexis	Elanus scriptus	Pavey, Gorman, and Heywood	2008	Journal of Arid Environments
+Pseudomys hermannsburgensis	Tyto alba	Pavey, Gorman, and Heywood	2008	Journal of Arid Environments
+Pseudomys hermannsburgensis	Elanus scriptus	Pavey, Gorman, and Heywood	2008	Journal of Arid Environments
+Sminthopsis crassicaudata	Elanus scriptus	Pavey, Gorman, and Heywood	2008	Journal of Arid Environments
+Sminthopsis crassicaudata	Tyto alba	Pavey, Gorman, and Heywood	2008	Journal of Arid Environments
+Sminthopsis macroura	Elanus scriptus	Pavey, Gorman, and Heywood	2008	Journal of Arid Environments
+Sminthopsis macroura	Tyto alba	Pavey, Gorman, and Heywood	2008	Journal of Arid Environments
+Ctenophorus nuchalis	Varanus eremius	Pianka	1968	The Western Australian Naturalist
+Ctenotus ariadnae	Varanus gouldii	Pianka	1994	Australian Journal of Ecology
+Ctenotus brooksi	Varanus tristis	Pianka	1994	Australian Journal of Ecology
+Ctenotus calurus	Varanus eremius	Pianka	1994	Australian Journal of Ecology
+Ctenotus calurus	Varanus brevicauda	Pianka	1994	Australian Journal of Ecology
+Ctenotus dux	Varanus eremius	Pianka	1994	Australian Journal of Ecology
+Ctenotus helenae	Varanus tristis	Pianka	1994	Australian Journal of Ecology
+Ctenotus helenae	Varanus eremius	Pianka	2007	Ecology of Pygmy Monitor in Western Australia
+Ctenotus leonhardii	Varanus gouldii	Pianka	1994	Australian Journal of Ecology
+Ctenotus pantherinus	Varanus tristis	Pianka	1994	Australian Journal of Ecology
+Ctenotus piankai	Varanus eremius	Pianka	1994	Australian Journal of Ecology
+Ctenotus schomburgkii	Varanus gouldii	Pianka	1994	Australian Journal of Ecology
+Ctenotus schomburgkii	Varanus eremius	Pianka	1994	Australian Journal of Ecology
+Diplodactylus conspicillatus	Varanus eremius	Pianka	2007	Ecology of Pygmy Monitor in Western Australia
+Diplodactylus conspicillatus	Varanus gouldii	Pianka	1994	Australian Journal of Ecology
+Gehyra variegata	Varanus gilleni	Pianka	1969	Western Australian Naturalist
+Gowidon longirostris	Varanus eremius	Pianka	1994	Australian Journal of Ecology
+Heteronotia binoei	Varanus gilleni	Pianka	1994	Australian Journal of Ecology
+Lialis burtonis	Varanus gouldii	Pianka	1994	Australian Journal of Ecology
+Lucasium stenodactylum	Varanus gouldii	Pianka	1994	Australian Journal of Ecology
+Menetia greyii	Varanus eremius	Pianka	1994	Australian Journal of Ecology
+Menetia greyii	Varanus gouldii	Pianka	1994	Australian Journal of Ecology
+Moloch horridus	Varanus tristis	Pianka	1994	Australian Journal of Ecology
+Moloch horridus	Varanus gouldii	Pianka	1994	Australian Journal of Ecology
+Strophurus ciliaris	Varanus gouldii	Pianka	1994	Australian Journal of Ecology
+Varanus brevicauda	Varanus gouldii	Pianka	1994	Australian Journal of Ecology
+Varanus gilleni	Varanus gouldii	Pianka	1994	Australian Journal of Ecology
+Varanus gouldii	Varanus giganteus	Pianka	1994	Australian Journal of Ecology
+Varanus gouldii	Varanus gouldii	Pianka	1994	Australian Journal of Ecology
+Artamus cinereus	Dasyurus geoffroii	Rayner, Chambers, Johnson, Morris and Mills	2012	Australian Mammalogy 34, 59–67.
+Moloch horridus	Dasyurus geoffroii	Rayner, Chambers, Johnson, Morris and Mills	2012	Australian Mammalogy 34, 59–67.
+Mus musculus	Dasyurus geoffroii	Rayner, Chambers, Johnson, Morris and Mills	2012	Australian Mammalogy 34, 59–67.
+Tachyglossus aculeatus	Dasyurus geoffroii	Rayner, Chambers, Johnson, Morris and Mills	2012	Australian Mammalogy 34, 59–67.
+Anthus novaeseelandiae	Felis catus	Read and Bowen	2001	Wildlife Research
+Artamus cinereus	Felis catus	Read and Bowen	2001	Wildlife Research
+Brachyurophis fasciolatus	Felis catus	Read and Bowen	2001	Wildlife Research
+Cacatua roseicapilla	Felis catus	Read and Bowen	2001	Wildlife Research
+Ctenophorus nuchalis	Felis catus	Read and Bowen	2001	Wildlife Research
+Ctenophorus nuchalis	Vulpes vulpes	Read and Bowen	2001	Wildlife Research
+Ctenotus brooksi	Felis catus	Read and Bowen	2001	Wildlife Research
+Ctenotus leae	Felis catus	Read and Bowen	2001	Wildlife Research
+Ctenotus regius	Felis catus	Read and Bowen	2001	Wildlife Research
+Ctenotus schomburgkii	Felis catus	Read and Bowen	2001	Wildlife Research
+Diplodactylus conspicillatus	Vulpes vulpes	Read and Bowen	2001	Wildlife Research
+Diplodactylus conspicillatus	Felis catus	Read and Bowen	2001	Wildlife Research
+Epthianura tricolor	Felis catus	Read and Bowen	2001	Wildlife Research
+Gehyra variegata	Felis catus	Read and Bowen	2001	Wildlife Research
+Heteronotia binoei	Felis catus	Read and Bowen	2001	Wildlife Research
+Lerista labialis	Vulpes vulpes	Read and Bowen	2001	Wildlife Research
+Lerista labialis	Felis catus	Read and Bowen	2001	Wildlife Research
+Lucasium stenodactylum	Felis catus	Read and Bowen	2001	Wildlife Research
+Manorina flavigula	Felis catus	Read and Bowen	2001	Wildlife Research
+Melopsittacus undulatus	Felis catus	Read and Bowen	2001	Wildlife Research
+Menetia greyii	Felis catus	Read and Bowen	2001	Wildlife Research
+Neobatrachus centralis	Felis catus	Read and Bowen	2001	Wildlife Research
+Neobatrachus centralis	Vulpes vulpes	Read and Bowen	2001	Wildlife Research
+Nephrurus levis	Felis catus	Read and Bowen	2001	Wildlife Research
+Ocyphaps lophotes	Felis catus	Read and Bowen	2001	Wildlife Research
+Oryctolagus cuniculus	Vulpes vulpes	Read and Bowen	2001	Wildlife Research
+Oryctolagus cuniculus	Felis catus	Read and Bowen	2001	Wildlife Research
+Pogona vitticeps	Felis catus	Read and Bowen	2001	Wildlife Research
+Pygopus nigriceps	Felis catus	Read and Bowen	2001	Wildlife Research
+Pygopus nigriceps	Vulpes vulpes	Read and Bowen	2001	Wildlife Research
+Ramphotyphlops endoterus	Felis catus	Read and Bowen	2001	Wildlife Research
+Ramphotyphlops endoterus	Vulpes vulpes	Read and Bowen	2001	Wildlife Research
+Rhynchoedura ornata	Vulpes vulpes	Read and Bowen	2001	Wildlife Research
+Rhynchoedura ornata	Felis catus	Read and Bowen	2001	Wildlife Research
+Sminthopsis crassicaudata	Felis catus	Read and Bowen	2001	Wildlife Research
+Taeniopygia guttata	Vulpes vulpes	Read and Bowen	2001	Wildlife Research
+Taeniopygia guttata	Felis catus	Read and Bowen	2001	Wildlife Research
+Turnix velox	Felis catus	Read and Bowen	2001	Wildlife Research
+Varanus gouldii	Felis catus	Read and Bowen	2001	Wildlife Research
+Coturnix pectoralis	Falco hypoleucos	Schoenjahn	2016	Emu
+Geophaps plumifera	Falco hypoleucos	Schoenjahn	2016	Emu
+Ocyphaps lophotes	Falco hypoleucos	Schoenjahn	2016	Emu
+Rattus villosissimus	Falco hypoleucos	Schoenjahn	2016	Emu
+Acanthagenys rufogularis	Aquila audax	Sharp et al	2002	Wildlife Research
+Aegotheles cristatus	Aquila audax	Sharp et al	2002	Wildlife Research
+Anas gracilis	Aquila audax	Sharp et al	2002	Wildlife Research
+Artamus personatus	Aquila audax	Sharp et al	2002	Wildlife Research
+Cacatua sanguinea	Aquila audax	Sharp et al	2002	Wildlife Research
+Circus assimilis	Aquila audax	Sharp et al	2002	Wildlife Research
+Ctenotus leonhardii	Aquila audax	Sharp et al	2002	Wildlife Research
+Delma tincta	Aquila audax	Sharp et al	2002	Wildlife Research
+Falco subniger	Aquila audax	Sharp et al	2002	Wildlife Research
+Gallinula ventralis	Aquila audax	Sharp et al	2002	Wildlife Research
+Malacorhynchus membranaceus	Aquila audax	Sharp et al	2002	Wildlife Research
+Melopsittacus undulatus	Aquila audax	Sharp et al	2002	Wildlife Research
+Mus musculus	Aquila audax	Sharp et al	2002	Wildlife Research
+Nymphicus hollandicus	Aquila audax	Sharp et al	2002	Wildlife Research
+Pogona vitticeps	Aquila audax	Sharp et al	2002	Wildlife Research
+Pomatostomus superciliosus	Aquila audax	Sharp et al	2002	Wildlife Research
+Sminthopsis macroura	Aquila audax	Sharp et al	2002	Wildlife Research
+Tachyglossus aculeatus	Aquila audax	Sharp et al	2002	Wildlife Research
+Ctenophorus nuchalis	Suta suta	Shine	1988	Journal of Herpetology
+Ctenotus schomburgkii	Suta suta	Shine	1988	Journal of Herpetology
+Diplodactylus conspicillatus	Suta suta	Shine	1988	Journal of Herpetology
+Gehyra variegata	Demansia psammophis	Shine	1980	Journal of Herpetology
+Lialis burtonis	Suta suta	Shine	1988	Journal of Herpetology
+Menetia greyii	Suta suta	Shine	1988	Journal of Herpetology
+Mus musculus	Suta suta	Shine	1988	Journal of Herpetology
+Planigale tenuirostris	Suta suta	Shine	1988	Journal of Herpetology
+Pogona vitticeps	Suta suta	Shine	1988	Journal of Herpetology
+Diporiphora winneckei	Acanthophis pyrrhus	Shine, Spencer, and Keogh	2014	PLoS One
+Lucasium stenodactylum	Acanthophis pyrrhus	Shine, Spencer, and Keogh	2014	PLoS One
+Camelus dromedarius	Vulpes vulpes	Spencer, Crowther and Dickman	2014	Journal of Mammalogy
+Camelus dromedarius	Canis lupus	Spencer, Crowther and Dickman	2014	Journal of Mammalogy
+Felis catus	Canis lupus	Spencer, Crowther and Dickman	2014	Journal of Mammalogy
+Felis catus	Vulpes vulpes	Spencer, Crowther and Dickman	2014	Journal of Mammalogy
+Leggadina forresti	Canis lupus	Spencer, Crowther and Dickman	2014	Journal of Mammalogy
+Leggadina forresti	Felis catus	Spencer, Crowther and Dickman	2014	Journal of Mammalogy
+Leggadina forresti	Vulpes vulpes	Spencer, Crowther and Dickman	2014	Journal of Mammalogy
+Macropus robustus	Vulpes vulpes	Spencer, Crowther and Dickman	2014	Journal of Mammalogy
+Macropus robustus	Canis lupus	Spencer, Crowther and Dickman	2014	Journal of Mammalogy
+Macropus rufus	Canis lupus	Spencer, Crowther and Dickman	2014	Journal of Mammalogy
+Mus musculus	Vulpes vulpes	Spencer, Crowther and Dickman	2014	Journal of Mammalogy
+Mus musculus	Canis lupus	Spencer, Crowther and Dickman	2014	Journal of Mammalogy
+Notomys alexis	Felis catus	Spencer, Crowther and Dickman	2014	Journal of Mammalogy
+Notomys alexis	Vulpes vulpes	Spencer, Crowther and Dickman	2014	Journal of Mammalogy
+Notomys alexis	Canis lupus	Spencer, Crowther and Dickman	2014	Journal of Mammalogy
+Pogona vitticeps	Vulpes vulpes	Spencer, Crowther and Dickman	2014	Journal of Mammalogy
+Pogona vitticeps	Canis lupus	Spencer, Crowther and Dickman	2014	Journal of Mammalogy
+Pseudomys desertor	Canis lupus	Spencer, Crowther and Dickman	2014	Journal of Mammalogy
+Pseudomys desertor	Vulpes vulpes	Spencer, Crowther and Dickman	2014	Journal of Mammalogy
+Pseudomys desertor	Felis catus	Spencer, Crowther and Dickman	2014	Journal of Mammalogy
+Pseudomys hermannsburgensis	Canis lupus	Spencer, Crowther and Dickman	2014	Journal of Mammalogy
+Pseudomys hermannsburgensis	Vulpes vulpes	Spencer, Crowther and Dickman	2014	Journal of Mammalogy
+Pseudomys hermannsburgensis	Felis catus	Spencer, Crowther and Dickman	2014	Journal of Mammalogy
+Rattus villosissimus	Felis catus	Spencer, Crowther and Dickman	2014	Journal of Mammalogy
+Rattus villosissimus	Vulpes vulpes	Spencer, Crowther and Dickman	2014	Journal of Mammalogy
+Rattus villosissimus	Canis lupus	Spencer, Crowther and Dickman	2014	Journal of Mammalogy
+Sminthopsis hirtipes	Felis catus	Spencer, Crowther and Dickman	2014	Journal of Mammalogy
+Sminthopsis hirtipes	Vulpes vulpes	Spencer, Crowther and Dickman	2014	Journal of Mammalogy
+Sminthopsis macroura	Felis catus	Spencer, Crowther and Dickman	2014	Journal of Mammalogy
+Sminthopsis macroura	Canis lupus	Spencer, Crowther and Dickman	2014	Journal of Mammalogy
+Sminthopsis macroura	Vulpes vulpes	Spencer, Crowther and Dickman	2014	Journal of Mammalogy
+Sminthopsis youngsoni	Canis lupus	Spencer, Crowther and Dickman	2014	Journal of Mammalogy
+Sminthopsis youngsoni	Vulpes vulpes	Spencer, Crowther and Dickman	2014	Journal of Mammalogy
+Tachyglossus aculeatus	Canis lupus	Spencer, Crowther and Dickman	2014	Journal of Mammalogy
+Varanus gouldii	Canis lupus	Spencer, Crowther and Dickman	2014	Journal of Mammalogy
+Vulpes vulpes	Vulpes vulpes	Spencer, Crowther and Dickman	2014	Journal of Mammalogy
+Vulpes vulpes	Canis lupus	Spencer, Crowther and Dickman	2014	Journal of Mammalogy
+Dasycercus cristicauda	Canis lupus	Vernes et al	2020	Journal of Arid Environments
+Dasycercus cristicauda	Felis catus	Vernes et al	2020	Journal of Arid Environments
+Dromaius novaehollandiae	Canis lupus	Vernes et al	2020	Journal of Arid Environments
+Macropus robustus	Felis catus	Vernes et al	2020	Journal of Arid Environments
+Austronomus australis	Felis catus	Woinarski et al	2018	Australian Mammalogy
+Corvus coronoides	Felis catus	Woinarski et al	2018	Australian Mammalogy
+Dromaius novaehollandiae	Vulpes vulpes	Woinarski et al	20018	Australian Mammalogy
+Eurostopodus argus	Felis catus	Woinarski et al	2018	Australian Mammalogy
+Lucasium stenodactylum	Vulpes vulpes	Woinarski et al	20018	Australian Mammalogy
+Nephrurus levis	Vulpes vulpes	Woinarski et al	20018	Australian Mammalogy
+Planigale gilesi	Felis catus	Woinarski et al	2018	Australian Mammalogy
+Sminthopsis crassicaudata	Vulpes vulpes	Woinarski et al	20018	Australian Mammalogy

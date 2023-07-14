@@ -37,6 +37,14 @@ contains 6 scripts for identifying the most important variables to retain in the
 
 ### SUPPORTING INFORMATION DATA FOLDER
 The supporting information data folder contains 3 files.:
-- <strong>interactions_between_Simpson_Desert_species.xlsx</strong> contains observed predator-prey interactions between the 7 focal predators and prey species in the Simpson Desert species assemblage (birds and mammals only).
-- <strong>Simpson_Desert_predators_with_nonSD_prey.xlsx</strong> contains observed predator-prey interactions between the 7 focal predators and non-Simpson Desert species (birds and mammals only).
-- <strong>Simpson_Desert_sp_traits.xlsx</strong> contains trait data for birds and mammals from the Simpson Desert species assemblage.
+- <strong>[interactions_between_Simpson_Desert_species.xlsx](supporting%20%information%20data%20files/interactions_between_Simpson_Desert_species.xlsx)</strong> [.tsv](supporting%20information%20data%20files/interactions_between_Simpson_Desert_species.tsv),[.csv](supporting%20information%20data%20files/interactions_between_Simpson_Desert_species.csv) contains observed predator-prey interactions between the 7 focal predators and prey species in the Simpson Desert species assemblage (birds and mammals only).
+- <strong>[Simpson_Desert_predators_with_nonSD_prey.xlsx](supporting%20%information%20data%20files/Simpson_Desert_predators_with_nonSD_prey.xlsx)</strong> [.tsv](supporting%20%information%20data%20files/Simpson_Desert_predators_with_nonSD_prey.tsv),[.csv](supporting%20%information%20data%20files/Simpson_Desert_predators_with_nonSD_prey.csv) contains observed predator-prey interactions between the 7 focal predators and non-Simpson Desert species (birds and mammals only).
+- <strong>[Simpson_Desert_sp_traits.xlsx](supporting%20information%20data%20files/Simpson_Desert_sp_traits.xlsx)</strong> [.tsv](supporting%20information%20data%20files/Simpson_Desert_sp_traits.tsv),[.csv](supporting%20information%20data%20files/Simpson_Desert_sp_traits.csv) contains trait data for birds and mammals from the Simpson Desert species assemblage.
+
+### Indexing
+
+[![GloBI Review by Elton](../../actions/workflows/review.yml/badge.svg)](../../actions/workflows/review.yml) [![GloBI](https://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:JohnLlewelyn/random-forests-for-predicting-predator-prey-interactions-in-terrestrial-vertebrates&refutes=true&refutes=false)](https://globalbioticinteractions.org/?accordingTo=globi:JohnLlewelyn/random-forests-for-predicting-predator-prey-interactions-in-terrestrial-vertebrates)
+
+This repository contains configuration to help Global Biotic Interactions (GloBI, https://globalbioticinteractions.org) data associated with:
+
+Llewelyn, J., Strona, G., Dickman, C.R., Greenville, A.C., Wardle, G.M., Lee, M.S.Y., Doherty, S., Shabani, F., Saltré, F. and Bradshaw, C.J.A. (2023), Predicting predator–prey interactions in terrestrial endotherms using random forest. Ecography e06619. https://doi.org/10.1111/ecog.06619
